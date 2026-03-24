@@ -1,0 +1,14 @@
+
+
+2.3.1.Entorno de sistema
+Sistema Operativo: Windows 11.
+JupyterNotebook
+
+2.3.2.Entorno de programación
+Lenguaje: Python 3.13.5.
+IDE / Entorno de desarrollo: Jupyter Notebook 7.4.3.
+Bibliotecas principales:
+Manipulación de datos: Pandas 2.2.3 y NumPy 2.1.3.
+Machine Learning: Scikit-learn 1.6.1.
+Visualización: Matplotlib 3.10.1.
+Interfaz: IPython 9.3.0.
