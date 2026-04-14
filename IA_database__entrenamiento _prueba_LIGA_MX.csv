@@ -1,0 +1,591 @@
+llave año-equipo local,llave año-equipo visitante,año,equipo local,marcador local,marcador visitante,equipo visitante,Total Mercado (€ M) local,Portero (€ M) local,Defensa (€ M) local,Mediocampo (€ M) local,Delantera (€ M)  local,% Ganado local,% Emape Casa local,% derrota local,Dominancia en puntos local,Total Mercado (€ M) visita,Portero (€ M) visita,Defensa (€ M) visita,Mediocampo (€ M) visita,Delantera (€ M)  visita,% Ganado Visita ,% Empate Visita ,% Derrota Visitante,Dominancia en puntos visita,resultado
+2024-América,2024-Cruz Azul,2024,América,1,0,Cruz Azul,92.45,9.25,27.73,27.73,27.73,65%,22%,22%,133,78.85,7.89,23.66,23.66,23.66,52%,24%,24%,107,gana local
+2024-Cruz Azul,2024-América,2024,Cruz Azul,1,1,América,78.85,7.89,23.66,23.66,23.66,71%,24%,5%,107,92.45,9.25,27.73,27.73,27.73,38%,29%,33%,133,empate
+2024-América,2024-Chivas,2024,América,1,0,Chivas,92.45,9.25,27.73,27.73,27.73,65%,22%,13%,133,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,gana local
+2024-Chivas,2024-América,2024,Chivas,0,0,América,70.2,7.02,21.06,21.06,21.06,44%,33%,22%,99,92.45,9.25,27.73,27.73,27.73,38%,29%,33%,133,empate
+2024-América,2024-Pachuca,2024,América,1,1,Pachuca,92.45,9.25,27.73,27.73,27.73,65%,22%,13%,133,56.6,5.66,16.98,16.98,16.98,26%,16%,58%,98,empate
+2024-Pachuca,2024-América,2024,Pachuca,1,1,América,56.6,5.66,16.98,16.98,16.98,39%,33%,28%,98,92.45,9.25,27.73,27.73,27.73,38%,29%,33%,133,empate
+2024-Puebla,2024-América,2024,Puebla,1,2,América,24.1,2.41,7.23,7.23,7.23,24%,12%,65%,34,92.45,9.25,27.73,27.73,27.73,38%,29%,33%,133,gana visitante
+2024-Pumas,2024-América,2024,Pumas,2,1,América,47.6,4.76,14.28,14.28,14.28,50%,17%,33%,75,92.45,9.25,27.73,27.73,27.73,38%,29%,33%,133,gana local
+2024-América,2024-Toluca,2024,América,5,1,Toluca,92.45,9.25,27.73,27.73,27.73,65%,22%,13%,133,77.45,7.75,23.24,23.24,23.24,38%,33%,29%,118,gana local
+2024-Santos Laguna,2024-América,2024,Santos Laguna,1,1,América,35.9,3.59,10.77,10.77,10.77,24%,18%,59%,46,92.45,9.25,27.73,27.73,27.73,38%,29%,33%,133,empate
+2024-América,2024-Atlético San Luis,2024,América,2,1,Atlético San Luis,92.45,9.25,27.73,27.73,27.73,65%,22%,13%,133,45.95,4.6,13.84,13.84,13.84,21%,16%,63%,59,gana local
+2024-Chivas,2024-América,2024,Chivas,0,0,América,70.2,7.02,21.06,21.06,21.06,44%,33%,22%,99,92.45,9.25,27.73,27.73,27.73,38%,29%,33%,133,empate
+2024-América,2024-Tigres,2024,América,2,0,Tigres,92.45,9.25,27.73,27.73,27.73,65%,22%,13%,133,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,gana local
+2024-América,2024-Cruz Azul,2024,América,1,0,Cruz Azul,92.45,9.25,27.73,27.73,27.73,65%,22%,13%,133,78.85,7.89,23.66,23.66,23.66,52%,24%,24%,107,gana local
+2024-América,2024-Mazatlán,2024,América,2,2,Mazatlán,92.45,9.25,27.73,27.73,27.73,65%,22%,13%,133,31.45,3.15,9.44,9.44,9.44,6%,29%,65%,40,empate
+2024-Pachuca,2024-América,2024,Pachuca,2,1,América,56.6,5.66,16.98,16.98,16.98,39%,33%,28%,98,92.45,9.25,27.73,27.73,27.73,38%,29%,33%,133,gana local
+2024-León,2024-América,2024,León,0,1,América,29.55,2.96,8.87,8.87,8.87,39%,39%,22%,87,92.45,9.25,27.73,27.73,27.73,38%,29%,33%,133,gana visitante
+2024-América,2024-Monterrey,2024,América,1,1,Monterrey,92.45,9.25,27.73,27.73,27.73,65%,22%,13%,133,88.6,8.86,26.58,26.58,26.58,38%,24%,38%,118,empate
+2024-Juarez,2024-América,2024,Juarez,0,2,América,NULL,NULL,NULL,NULL,NULL,28%,33%,39%,55,92.45,9.25,27.73,27.73,27.73,38%,29%,33%,133,gana visitante
+2024-América,2024-Querétaro,2024,América,2,0,Querétaro,92.45,9.25,27.73,27.73,27.73,65%,22%,13%,133,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,gana local
+2024-Xolos,2024-América,2024,Xolos,0,2,América,NULL,NULL,NULL,NULL,NULL,55%,15%,30%,49,92.45,9.25,27.73,27.73,27.73,38%,29%,33%,133,gana visitante
+2023-América,2023-Tigres,2023,América,0,0,Tigres,84.2,8.42,25.26,25.26,25.26,65%,22%,13%,133,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,empate
+2023-Tigres,2023-América,2023,Tigres,1,1,América,67.6,6.76,20.28,20.28,20.28,70%,25%,5%,107,84.2,8.42,25.26,25.26,25.26,38%,29%,33%,133,empate
+2023-América,2023-Atlético San Luis,2023,América,0,2,Atlético San Luis,84.2,8.42,25.26,25.26,25.26,65%,22%,13%,133,35.85,3.59,10.77,10.77,10.77,21%,16%,63%,59,gana visitante
+2023-Atlético San Luis,2023-América,2023,Atlético San Luis,0,5,América,35.85,3.59,10.77,10.77,10.77,68%,5%,26%,59,84.2,8.42,25.26,25.26,25.26,38%,29%,33%,133,gana visitante
+2023-América,2023-León,2023,América,2,0,León,84.2,8.42,25.26,25.26,25.26,65%,22%,13%,133,41.5,4.15,12.45,12.45,12.45,28%,28%,44%,87,gana local
+2023-León,2023-América,2023,León,2,2,América,41.5,4.15,12.45,12.45,12.45,39%,39%,22%,87,84.2,8.42,25.26,25.26,25.26,38%,29%,33%,133,empate
+2023-Tigres,2023-América,2023,Tigres,0,0,América,67.6,6.76,20.28,20.28,20.28,70%,25%,5%,107,84.2,8.42,25.26,25.26,25.26,38%,29%,33%,133,empate
+2023-América,2023-Xolos,2023,América,3,0,Xolos,84.2,8.42,25.26,25.26,25.26,65%,22%,13%,133,NULL,NULL,NULL,NULL,NULL,28%,22%,50%,49,gana local
+2023-Atlético San Luis,2023-América,2023,Atlético San Luis,0,1,América,35.85,3.59,10.77,10.77,10.77,68%,5%,26%,59,84.2,8.42,25.26,25.26,25.26,38%,29%,33%,133,gana visitante
+2023-América,2023-Santos Laguna,2023,América,4,3,Santos Laguna,84.2,8.42,25.26,25.26,25.26,65%,22%,13%,133,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,gana local
+2023-Mazatlán,2023-América,2023,Mazatlán,1,2,América,35.05,3.5,10.51,10.51,10.51,29%,47%,24%,40,84.2,8.42,25.26,25.26,25.26,38%,29%,33%,133,gana visitante
+2023-América,2023-Pachuca,2023,América,4,0,Pachuca,84.2,8.42,25.26,25.26,25.26,65%,22%,13%,133,51.25,5.13,15.38,15.38,15.38,26%,16%,58%,98,gana local
+2023-América,2023-Pumas,2023,América,1,0,Pumas,84.2,8.42,25.26,25.26,25.26,65%,22%,13%,133,NULL,NULL,NULL,NULL,NULL,30%,25%,45%,75,gana local
+2023-Querétaro,2023-América,2023,Querétaro,1,2,América,21.45,2.14,6.44,6.44,6.44,35%,12%,53%,64,84.2,8.42,25.26,25.26,25.26,38%,29%,33%,133,gana visitante
+2023-América,2023-Chivas,2023,América,4,0,Chivas,84.2,8.42,25.26,25.26,25.26,65%,22%,13%,133,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,gana local
+2023-América,2023-Necaxa,2023,América,3,2,Necaxa,84.2,8.42,25.26,25.26,25.26,65%,22%,13%,133,40,4,12,12,12,28%,28%,44%,77,gana local
+2023-América,2023-Atlas,2023,América,1,1,Atlas,84.2,8.42,25.26,25.26,25.26,65%,22%,13%,133,30.7,3.07,9.21,9.21,9.21,26%,32%,42%,60,empate
+2023-América,2023-Puebla,2023,América,3,0,Puebla,84.2,8.42,25.26,25.26,25.26,65%,22%,13%,133,26.7,2.67,8.01,8.01,8.01,12%,18%,71%,34,gana local
+2023-América,2023-Juarez,2023,América,1,2,Juarez,84.2,8.42,25.26,25.26,25.26,65%,22%,13%,133,NULL,NULL,NULL,NULL,NULL,35%,18%,47%,55,gana visitante
+2024-Atlas,2024-Chivas,2024,Atlas,0,1,Chivas,28.95,2.9,8.68,8.68,8.68,NULL,NULL,NULL,60,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,gana visitante
+2024-Cruz Azul,2024-Atlas,2024,Cruz Azul,2,2,Atlas,78.85,7.89,23.66,23.66,23.66,71%,24%,5%,107,28.95,2.9,8.68,8.68,8.68,26%,32%,42%,60,empate
+2024-Atlas,2024-Atlético San Luis,2024,Atlas,2,1,Atlético San Luis,28.95,2.9,8.68,8.68,8.68,NULL,NULL,NULL,60,45.95,4.6,13.84,13.84,13.84,21%,16%,63%,59,gana local
+2024-Toluca,2024-Atlas,2024,Toluca,4,1,Atlas,77.45,7.75,23.24,23.24,23.24,76%,19%,5%,118,28.95,2.9,8.68,8.68,8.68,26%,32%,42%,60,gana local
+2024-Puebla,2024-Atlas,2024,Puebla,2,2,Atlas,24.1,2.41,7.23,7.23,7.23,24%,12%,65%,34,28.95,2.9,8.68,8.68,8.68,26%,32%,42%,60,empate
+2024-Tigres,2024-Atlas,2024,Tigres,1,1,Atlas,67,6.7,20.1,20.1,20.1,70%,25%,5%,107,28.95,2.9,8.68,8.68,8.68,26%,32%,42%,60,empate
+2024-Atlas,2024-León,2024,Atlas,0,1,León,28.95,2.9,8.68,8.68,8.68,NULL,NULL,NULL,60,29.55,2.96,8.87,8.87,8.87,28%,28%,44%,87,gana visitante
+2024-Atlas,2024-Pumas,2024,Atlas,0,0,Pumas,28.95,2.9,8.68,8.68,8.68,NULL,NULL,NULL,60,47.6,4.76,14.28,14.28,14.28,30%,25%,45%,75,empate
+2024-Mazatlán,2024-Atlas,2024,Mazatlán,2,0,Atlas,31.45,3.15,9.44,9.44,9.44,29%,47%,24%,40,28.95,2.9,8.68,8.68,8.68,26%,32%,42%,60,gana local
+2024-Atlas,2024-Santos Laguna,2024,Atlas,3,0,Santos Laguna,28.95,2.9,8.68,8.68,8.68,NULL,NULL,NULL,60,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,gana local
+2024-Pachuca,2024-Atlas,2024,Pachuca,4,3,Atlas,56.6,5.66,16.98,16.98,16.98,39%,33%,28%,98,28.95,2.9,8.68,8.68,8.68,26%,32%,42%,60,gana local
+2024-Atlas,2024-Xolos,2024,Atlas,0,0,Xolos,28.95,2.9,8.68,8.68,8.68,NULL,NULL,NULL,60,39.15,3.92,11.75,11.75,11.75,28%,22%,50%,49,empate
+2024-Necaxa,2024-Atlas,2024,Necaxa,2,1,Atlas,38.5,3.85,11.55,11.55,11.55,44%,22%,33%,77,28.95,2.9,8.68,8.68,8.68,26%,32%,42%,60,gana local
+2023-Pumas,2023-Atlas,2023,Pumas,3,0,Atlas,NULL,NULL,NULL,NULL,NULL,50%,17%,33%,75,30.7,3.07,9.21,9.21,9.21,26%,32%,42%,60,gana local
+2023-Atlas,2023-Pachuca,2023,Atlas,0,2,Pachuca,30.7,3.07,9.21,9.21,9.21,NULL,NULL,NULL,60,51.25,5.13,15.38,15.38,15.38,26%,16%,58%,98,gana visitante
+2023-Xolos,2023-Atlas,2023,Xolos,2,0,Atlas,38.3,3.83,11.49,11.49,11.49,55%,15%,30%,49,30.7,3.07,9.21,9.21,9.21,26%,32%,42%,60,gana local
+2023-León,2023-Atlas,2023,León,1,1,Atlas,41.5,4.15,12.45,12.45,12.45,39%,39%,22%,87,30.7,3.07,9.21,9.21,9.21,26%,32%,42%,60,empate
+2023-Chivas,2023-Atlas,2023,Chivas,4,1,Atlas,69.7,6.97,20.91,20.91,20.91,44%,33%,22%,99,30.7,3.07,9.21,9.21,9.21,26%,32%,42%,60,gana local
+2023-Atlas,2023-Puebla,2023,Atlas,2,3,Puebla,30.7,3.07,9.21,9.21,9.21,NULL,NULL,NULL,60,26.7,2.67,8.01,8.01,8.01,12%,18%,71%,34,gana visitante
+2023-Juarez,2023-Atlas,2023,Juarez,1,2,Atlas,NULL,NULL,NULL,NULL,NULL,28%,33%,39%,55,30.7,3.07,9.21,9.21,9.21,26%,32%,42%,60,gana visitante
+2023-Atlas,2023-Tigres,2023,Atlas,2,0,Tigres,30.7,3.07,9.21,9.21,9.21,NULL,NULL,NULL,60,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,gana local
+2023-Atlético San Luis,2023-Atlas,2023,Atlético San Luis,2,0,Atlas,35.85,3.59,10.77,10.77,10.77,68%,5%,26%,59,30.7,3.07,9.21,9.21,9.21,26%,32%,42%,60,gana local
+2023-Atlas,2023-Toluca,2023,Atlas,0,0,Toluca,30.7,3.07,9.21,9.21,9.21,NULL,NULL,NULL,60,66.2,6.62,19.86,19.86,19.86,38%,33%,29%,118,empate
+2023-América,2023-Atlas,2023,América,1,1,Atlas,84.2,8.42,25.26,25.26,25.26,65%,22%,13%,133,30.7,3.07,9.21,9.21,9.21,26%,32%,42%,60,empate
+2023-Santos Laguna,2023-Atlas,2023,Santos Laguna,0,0,Atlas,46,4.6,13.8,13.8,13.8,24%,18%,59%,46,30.7,3.07,9.21,9.21,9.21,26%,32%,42%,60,empate
+2023-Monterrey,2023-Atlas,2023,Monterrey,1,0,Atlas,88.1,8.81,26.43,26.43,26.43,61%,17%,22%,118,30.7,3.07,9.21,9.21,9.21,26%,32%,42%,60,gana local
+2024-Santos Laguna,2024-Atlético San Luis,2024,Santos Laguna,0,3,Atlético San Luis,35.9,3.59,10.77,10.77,10.77,24%,18%,59%,46,45.95,4.6,13.84,13.84,13.84,21%,16%,63%,59,gana visitante
+2024-Atlético San Luis,2024-Toluca,2024,Atlético San Luis,1,5,Toluca,45.95,4.6,13.84,13.84,13.84,68%,5%,26%,59,77.45,7.75,23.24,23.24,23.24,38%,33%,29%,118,gana visitante
+2024-Atlas,2024-Atlético San Luis,2024,Atlas,2,1,Atlético San Luis,28.95,2.9,8.68,8.68,8.68,NULL,NULL,NULL,60,45.95,4.6,13.84,13.84,13.84,21%,16%,63%,59,gana local
+2024-Atlético San Luis,2024-Juarez,2024,Atlético San Luis,2,3,Juarez,45.95,4.6,13.84,13.84,13.84,68%,5%,26%,59,NULL,NULL,NULL,NULL,NULL,35%,18%,47%,55,gana visitante
+2024-América,2024-Atlético San Luis,2024,América,2,1,Atlético San Luis,92.45,9.25,27.73,27.73,27.73,65%,22%,13%,133,45.95,4.6,13.84,13.84,13.84,21%,16%,63%,59,gana local
+2024-Atlético San Luis,2024-Pachuca,2024,Atlético San Luis,2,1,Pachuca,45.95,4.6,13.84,13.84,13.84,68%,5%,26%,59,56.6,5.66,16.98,16.98,16.98,26%,16%,58%,98,gana local
+2024-Necaxa,2024-Atlético San Luis,2024,Necaxa,3,1,Atlético San Luis,38.5,3.85,11.55,11.55,11.55,44%,22%,33%,77,45.95,4.6,13.84,13.84,13.84,21%,16%,63%,59,gana local
+2024-Atlético San Luis,2024-Puebla,2024,Atlético San Luis,4,0,Puebla,45.95,4.6,13.84,13.84,13.84,68%,5%,26%,59,24.1,2.41,7.23,7.23,7.23,12%,18%,71%,34,gana local
+2024-Querétaro,2024-Atlético San Luis,2024,Querétaro,4,1,Atlético San Luis,17.8,1.78,5.34,5.34,5.34,35%,12%,53%,64,45.95,4.6,13.84,13.84,13.84,21%,16%,63%,59,gana local
+2024-Atlético San Luis,2024-Xolos,2024,Atlético San Luis,3,3,Xolos,45.95,4.6,13.84,13.84,13.84,68%,5%,26%,59,39.15,3.92,11.75,11.75,11.75,28%,22%,50%,49,empate
+2024-Cruz Azul,2024-Atlético San Luis,2024,Cruz Azul,3,0,Atlético San Luis,78.85,7.89,23.66,23.66,23.66,71%,24%,5%,107,45.95,4.6,13.84,13.84,13.84,21%,16%,63%,59,gana local
+2024-Atlético San Luis,2024-Chivas,2024,Atlético San Luis,0,2,Chivas,45.95,4.6,13.84,13.84,13.84,68%,5%,26%,59,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,gana visitante
+2024-Monterrey,2024-Atlético San Luis,2024,Monterrey,3,1,Atlético San Luis,88.6,8.86,26.58,26.58,26.58,61%,17%,22%,118,45.95,4.6,13.84,13.84,13.84,21%,16%,63%,59,gana local
+2024-Atlético San Luis,2024-Tigres,2024,Atlético San Luis,1,2,Tigres,45.95,4.6,13.84,13.84,13.84,68%,5%,26%,59,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,gana visitante
+2024-Atlético San Luis,2024-Pumas,2024,Atlético San Luis,3,1,Pumas,45.95,4.6,13.84,13.84,13.84,68%,5%,26%,59,47.6,4.76,14.28,14.28,14.28,30%,25%,45%,75,gana local
+2024-Mazatlán,2024-Atlético San Luis,2024,Mazatlán,0,1,Atlético San Luis,31.45,3.15,9.44,9.44,9.44,29%,47%,24%,40,45.95,4.6,13.84,13.84,13.84,21%,16%,63%,59,gana visitante
+2023-América,2023-Atlético San Luis,2023,América,0,2,Atlético San Luis,84.2,8.42,25.26,25.26,25.26,65%,22%,13%,133,35.85,3.59,10.77,10.77,10.77,21%,16%,63%,59,gana visitante
+2023-Atlético San Luis,2023-América,2023,Atlético San Luis,0,5,América,35.85,3.59,10.77,10.77,10.77,68%,5%,26%,59,84.2,8.42,25.26,25.26,25.26,38%,29%,33%,133,gana visitante
+2023-Monterrey,2023-Atlético San Luis,2023,Monterrey,1,1,Atlético San Luis,88.1,8.81,26.43,26.43,26.43,61%,17%,22%,118,35.85,3.59,10.77,10.77,10.77,21%,16%,63%,59,empate
+2023-Atlético San Luis,2023-Monterrey,2023,Atlético San Luis,1,0,Monterrey,35.85,3.59,10.77,10.77,10.77,68%,5%,26%,59,88.1,8.81,26.43,26.43,26.43,38%,24%,38%,118,gana local
+2023-Atlético San Luis,2023-León,2023,Atlético San Luis,3,2,León,35.85,3.59,10.77,10.77,10.77,68%,5%,26%,59,41.5,4.15,12.45,12.45,12.45,28%,28%,44%,87,gana local
+2023-Atlético San Luis,2023-Santos Laguna,2023,Atlético San Luis,0,2,Santos Laguna,35.85,3.59,10.77,10.77,10.77,68%,5%,26%,59,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,gana visitante
+2023-Tigres,2023-Atlético San Luis,2023,Tigres,2,2,Atlético San Luis,67.6,6.76,20.28,20.28,20.28,70%,25%,5%,107,35.85,3.59,10.77,10.77,10.77,21%,16%,63%,59,empate
+2023-Atlético San Luis,2023-América,2023,Atlético San Luis,0,1,América,35.85,3.59,10.77,10.77,10.77,68%,5%,26%,59,84.2,8.42,25.26,25.26,25.26,38%,29%,33%,133,gana visitante
+2023-Toluca,2023-Atlético San Luis,2023,Toluca,3,1,Atlético San Luis,66.2,6.62,19.86,19.86,19.86,76%,19%,5%,118,35.85,3.59,10.77,10.77,10.77,21%,16%,63%,59,gana local
+2023-Juarez,2023-Atlético San Luis,2023,Juarez,3,2,Atlético San Luis,NULL,NULL,NULL,NULL,NULL,28%,33%,39%,55,35.85,3.59,10.77,10.77,10.77,21%,16%,63%,59,gana local
+2023-Atlético San Luis,2023-Necaxa,2023,Atlético San Luis,4,0,Necaxa,35.85,3.59,10.77,10.77,10.77,68%,5%,26%,59,40,4,12,12,12,28%,28%,44%,77,gana local
+2023-Xolos,2023-Atlético San Luis,2023,Xolos,2,1,Atlético San Luis,38.3,3.83,11.49,11.49,11.49,55%,15%,30%,49,35.85,3.59,10.77,10.77,10.77,21%,16%,63%,59,gana local
+2023-Atlético San Luis,2023-Cruz Azul,2023,Atlético San Luis,1,2,Cruz Azul,35.85,3.59,10.77,10.77,10.77,68%,5%,26%,59,72.2,7.22,21.66,21.66,21.66,52%,24%,24%,107,gana visitante
+2023-Atlético San Luis,2023-Mazatlán,2023,Atlético San Luis,3,2,Mazatlán,35.85,3.59,10.77,10.77,10.77,68%,5%,26%,59,35.05,3.5,10.51,10.51,10.51,6%,29%,65%,40,gana local
+2023-Pumas,2023-Atlético San Luis,2023,Pumas,3,2,Atlético San Luis,NULL,NULL,NULL,NULL,NULL,50%,17%,33%,75,35.85,3.59,10.77,10.77,10.77,21%,16%,63%,59,gana local
+2023-Atlético San Luis,2023-Atlas,2023,Atlético San Luis,2,0,Atlas,35.85,3.59,10.77,10.77,10.77,68%,5%,26%,59,30.7,3.07,9.21,9.21,9.21,26%,32%,42%,60,gana local
+2023-Pachuca,2023-Atlético San Luis,2023,Pachuca,0,2,Atlético San Luis,51.25,5.13,15.38,15.38,15.38,39%,33%,28%,98,35.85,3.59,10.77,10.77,10.77,21%,16%,63%,59,gana visitante
+2023-Atlético San Luis,2023-León,2023,Atlético San Luis,3,0,León,35.85,3.59,10.77,10.77,10.77,68%,5%,26%,59,41.5,4.15,12.45,12.45,12.45,28%,28%,44%,87,gana local
+2023-Puebla,2023-Atlético San Luis,2023,Puebla,1,2,Atlético San Luis,26.7,2.67,8.01,8.01,8.01,24%,12%,65%,34,35.85,3.59,10.77,10.77,10.77,21%,16%,63%,59,gana visitante
+2023-Atlético San Luis,2023-Querétaro,2023,Atlético San Luis,4,1,Querétaro,35.85,3.59,10.77,10.77,10.77,68%,5%,26%,59,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,gana local
+2023-Chivas,2023-Atlético San Luis,2023,Chivas,3,1,Atlético San Luis,69.7,6.97,20.91,20.91,20.91,44%,33%,22%,99,35.85,3.59,10.77,10.77,10.77,21%,16%,63%,59,gana local
+2023-Atlético San Luis,2023-Monterrey,2023,Atlético San Luis,1,1,Monterrey,35.85,3.59,10.77,10.77,10.77,68%,5%,26%,59,88.1,8.81,26.43,26.43,26.43,38%,24%,38%,118,empate
+2024-América,2024-Cruz Azul,2024,América,1,0,Cruz Azul,92.45,9.25,27.73,27.73,27.73,65%,22%,13%,133,78.85,7.89,23.66,23.66,23.66,52%,24%,24%,107,gana local
+2024-Cruz Azul,2024-América,2024,Cruz Azul,1,1,América,78.85,7.89,23.66,23.66,23.66,71%,24%,5%,107,92.45,9.25,27.73,27.73,27.73,38%,29%,33%,133,empate
+2024-Cruz Azul,2024-Monterrey,2024,Cruz Azul,1,2,Monterrey,78.85,7.89,23.66,23.66,23.66,71%,24%,5%,107,88.6,8.86,26.58,26.58,26.58,38%,24%,38%,118,gana visitante
+2024-Monterrey,2024-Cruz Azul,2024,Monterrey,0,1,Cruz Azul,88.6,8.86,26.58,26.58,26.58,61%,17%,22%,118,78.85,7.89,23.66,23.66,23.66,52%,24%,24%,107,gana visitante
+2024-Cruz Azul,2024-Pumas,2024,Cruz Azul,2,2,Pumas,78.85,7.89,23.66,23.66,23.66,71%,24%,5%,107,47.6,4.76,14.28,14.28,14.28,30%,25%,45%,75,empate
+2024-Pumas,2024-Cruz Azul,2024,Pumas,0,2,Cruz Azul,47.6,4.76,14.28,14.28,14.28,50%,17%,33%,75,78.85,7.89,23.66,23.66,23.66,52%,24%,24%,107,gana visitante
+2024-Toluca,2024-Cruz Azul,2024,Toluca,0,1,Cruz Azul,77.45,7.75,23.24,23.24,23.24,76%,19%,5%,118,78.85,7.89,23.66,23.66,23.66,52%,24%,24%,107,gana visitante
+2024-Cruz Azul,2024-Atlas,2024,Cruz Azul,2,2,Atlas,78.85,7.89,23.66,23.66,23.66,71%,24%,5%,107,28.95,2.9,8.68,8.68,8.68,26%,32%,42%,60,empate
+2024-Puebla,2024-Cruz Azul,2024,Puebla,0,1,Cruz Azul,24.1,2.41,7.23,7.23,7.23,24%,12%,65%,34,78.85,7.89,23.66,23.66,23.66,52%,24%,24%,107,gana visitante
+2024-Cruz Azul,2024-Monterrey,2024,Cruz Azul,2,1,Monterrey,78.85,7.89,23.66,23.66,23.66,71%,24%,5%,107,88.6,8.86,26.58,26.58,26.58,38%,24%,38%,118,gana local
+2024-Pumas,2024-Cruz Azul,2024,Pumas,0,0,Cruz Azul,47.6,4.76,14.28,14.28,14.28,50%,17%,33%,75,78.85,7.89,23.66,23.66,23.66,52%,24%,24%,107,empate
+2024-Cruz Azul,2024-Necaxa,2024,Cruz Azul,1,2,Necaxa,78.85,7.89,23.66,23.66,23.66,71%,24%,5%,107,38.5,3.85,11.55,11.55,11.55,28%,28%,44%,77,gana visitante
+2024-Cruz Azul,2024-Chivas,2024,Cruz Azul,3,0,Chivas,78.85,7.89,23.66,23.66,23.66,71%,24%,5%,107,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,gana local
+2024-América,2024-Cruz Azul,2024,América,1,0,Cruz Azul,92.45,9.25,27.73,27.73,27.73,65%,22%,13%,133,78.85,7.89,23.66,23.66,23.66,52%,24%,24%,107,gana local
+2024-León,2024-Cruz Azul,2024,León,2,3,Cruz Azul,29.55,2.96,8.87,8.87,8.87,39%,39%,22%,87,78.85,7.89,23.66,23.66,23.66,52%,24%,24%,107,gana visitante
+2024-Cruz Azul,2024-Atlético San Luis,2024,Cruz Azul,3,0,Atlético San Luis,78.85,7.89,23.66,23.66,23.66,71%,24%,5%,107,45.95,4.6,13.84,13.84,13.84,21%,16%,63%,59,gana local
+2024-Querétaro,2024-Cruz Azul,2024,Querétaro,1,3,Cruz Azul,17.8,1.78,5.34,5.34,5.34,35%,12%,53%,64,78.85,7.89,23.66,23.66,23.66,52%,24%,24%,107,gana visitante
+2024-Cruz Azul,2024-Xolos,2024,Cruz Azul,1,0,Xolos,78.85,7.89,23.66,23.66,23.66,71%,24%,5%,107,39.15,3.92,11.75,11.75,11.75,28%,22%,50%,49,gana local
+2024-Cruz Azul,2024-Mazatlán,2024,Cruz Azul,2,1,Mazatlán,78.85,7.89,23.66,23.66,23.66,71%,24%,5%,107,31.45,3.15,9.44,9.44,9.44,6%,29%,65%,40,gana local
+2024-Juarez,2024-Cruz Azul,2024,Juarez,0,0,Cruz Azul,NULL,NULL,NULL,NULL,NULL,28%,33%,39%,55,78.85,7.89,23.66,23.66,23.66,52%,24%,24%,107,empate
+2024-Cruz Azul,2024-Pachuca,2024,Cruz Azul,0,1,Pachuca,78.85,7.89,23.66,23.66,23.66,71%,24%,5%,107,56.6,5.66,16.98,16.98,16.98,26%,16%,58%,98,gana visitante
+2023-Cruz Azul,2023-Puebla,2023,Cruz Azul,1,2,Puebla,72.2,7.22,21.66,21.66,21.66,71%,24%,5%,107,26.7,2.67,8.01,8.01,8.01,12%,18%,71%,34,gana visitante
+2023-Chivas,2023-Cruz Azul,2023,Chivas,1,0,Cruz Azul,69.7,6.97,20.91,20.91,20.91,44%,33%,22%,99,72.2,7.22,21.66,21.66,21.66,52%,24%,24%,107,gana local
+2023-Cruz Azul,2023-Juarez,2023,Cruz Azul,2,0,Juarez,72.2,7.22,21.66,21.66,21.66,71%,24%,5%,107,NULL,NULL,NULL,NULL,NULL,35%,18%,47%,55,gana local
+2023-Cruz Azul,2023-León,2023,Cruz Azul,1,0,León,72.2,7.22,21.66,21.66,21.66,71%,24%,5%,107,41.5,4.15,12.45,12.45,12.45,28%,28%,44%,87,gana local
+2023-Tigres,2023-Cruz Azul,2023,Tigres,2,1,Cruz Azul,67.6,6.76,20.28,20.28,20.28,70%,25%,5%,107,72.2,7.22,21.66,21.66,21.66,52%,24%,24%,107,gana local
+2023-Cruz Azul,2023-Pumas,2023,Cruz Azul,1,4,Pumas,72.2,7.22,21.66,21.66,21.66,71%,24%,5%,107,NULL,NULL,NULL,NULL,NULL,30%,25%,45%,75,gana visitante
+2023-Necaxa,2023-Cruz Azul,2023,Necaxa,1,3,Cruz Azul,40,4,12,12,12,44%,22%,33%,77,72.2,7.22,21.66,21.66,21.66,52%,24%,24%,107,gana visitante
+2023-Atlético San Luis,2023-Cruz Azul,2023,Atlético San Luis,1,2,Cruz Azul,35.85,3.59,10.77,10.77,10.77,68%,5%,26%,59,72.2,7.22,21.66,21.66,21.66,52%,24%,24%,107,gana visitante
+2023-Cruz Azul,2023-Querétaro,2023,Cruz Azul,1,3,Querétaro,72.2,7.22,21.66,21.66,21.66,71%,24%,5%,107,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,gana visitante
+2023-Mazatlán,2023-Cruz Azul,2023,Mazatlán,2,2,Cruz Azul,35.05,3.5,10.51,10.51,10.51,29%,47%,24%,40,72.2,7.22,21.66,21.66,21.66,52%,24%,24%,107,empate
+2023-Monterrey,2023-Cruz Azul,2023,Monterrey,1,2,Cruz Azul,88.1,8.81,26.43,26.43,26.43,61%,17%,22%,118,72.2,7.22,21.66,21.66,21.66,52%,24%,24%,107,gana visitante
+2023-Pachuca,2023-Cruz Azul,2023,Pachuca,1,0,Cruz Azul,51.25,5.13,15.38,15.38,15.38,39%,33%,28%,98,72.2,7.22,21.66,21.66,21.66,52%,24%,24%,107,gana local
+2023-Cruz Azul,2023-Santos Laguna,2023,Cruz Azul,2,2,Santos Laguna,72.2,7.22,21.66,21.66,21.66,71%,24%,5%,107,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,empate
+2023-Xolos,2023-Cruz Azul,2023,Xolos,2,1,Cruz Azul,38.3,3.83,11.49,11.49,11.49,55%,15%,30%,49,72.2,7.22,21.66,21.66,21.66,52%,24%,24%,107,gana local
+2024-América,2024-Chivas,2024,América,1,0,Chivas,92.45,9.25,27.73,27.73,27.73,65%,22%,13%,133,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,gana local
+2024-Chivas,2024-América,2024,Chivas,0,0,América,70.2,7.02,21.06,21.06,21.06,44%,33%,22%,99,92.45,9.25,27.73,27.73,27.73,38%,29%,33%,133,empate
+2024-Chivas,2024-Toluca,2024,Chivas,1,0,Toluca,70.2,7.02,21.06,21.06,21.06,44%,33%,22%,99,77.45,7.75,23.24,23.24,23.24,38%,33%,29%,118,gana local
+2024-Atlas,2024-Chivas,2024,Atlas,0,1,Chivas,28.95,2.9,8.68,8.68,8.68,NULL,NULL,NULL,60,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,gana visitante
+2024-Chivas,2024-Querétaro,2024,Chivas,2,0,Querétaro,70.2,7.02,21.06,21.06,21.06,44%,33%,22%,99,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,gana local
+2024-Pachuca,2024-Chivas,2024,Pachuca,0,1,Chivas,56.6,5.66,16.98,16.98,16.98,39%,33%,28%,98,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,gana visitante
+2024-Chivas,2024-Puebla,2024,Chivas,3,2,Puebla,70.2,7.02,21.06,21.06,21.06,44%,33%,22%,99,24.1,2.41,7.23,7.23,7.23,12%,18%,71%,34,gana local
+2024-Chivas,2024-América,2024,Chivas,0,0,América,70.2,7.02,21.06,21.06,21.06,44%,33%,22%,99,92.45,9.25,27.73,27.73,27.73,38%,29%,33%,133,empate
+2024-Chivas,2024-León,2024,Chivas,1,2,León,70.2,7.02,21.06,21.06,21.06,44%,33%,22%,99,29.55,2.96,8.87,8.87,8.87,28%,28%,44%,87,gana visitante
+2024-Cruz Azul,2024-Chivas,2024,Cruz Azul,3,0,Chivas,78.85,7.89,23.66,23.66,23.66,71%,24%,5%,107,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,gana local
+2024-Chivas,2024-Pumas,2024,Chivas,3,1,Pumas,70.2,7.02,21.06,21.06,21.06,44%,33%,22%,99,47.6,4.76,14.28,14.28,14.28,30%,25%,45%,75,gana local
+2024-Necaxa,2024-Chivas,2024,Necaxa,1,0,Chivas,38.5,3.85,11.55,11.55,11.55,44%,22%,33%,77,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,gana local
+2024-Mazatlán,2024-Chivas,2024,Mazatlán,2,2,Chivas,31.45,3.15,9.44,9.44,9.44,29%,47%,24%,40,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,empate
+2024-Atlético San Luis,2024-Chivas,2024,Atlético San Luis,0,2,Chivas,45.95,4.6,13.84,13.84,13.84,68%,5%,26%,59,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,gana visitante
+2024-Chivas,2024-Toluca,2024,Chivas,3,2,Toluca,70.2,7.02,21.06,21.06,21.06,44%,33%,22%,99,77.45,7.75,23.24,23.24,23.24,38%,33%,29%,118,gana local
+2024-Xolos,2024-Chivas,2024,Xolos,1,1,Chivas,NULL,NULL,NULL,NULL,NULL,55%,15%,30%,49,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,empate
+2024-Tigres,2024-Chivas,2024,Tigres,1,0,Chivas,67,6.7,20.1,20.1,20.1,70%,25%,5%,107,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,gana local
+2024-Chivas,2024-Santos Laguna,2024,Chivas,1,1,Santos Laguna,70.2,7.02,21.06,21.06,21.06,44%,33%,22%,99,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,empate
+2023-Pumas,2023-Chivas,2023,Pumas,3,0,Chivas,NULL,NULL,NULL,NULL,NULL,50%,17%,33%,75,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,gana local
+2023-Chivas,2023-Pumas,2023,Chivas,1,0,Pumas,69.7,6.97,20.91,20.91,20.91,44%,33%,22%,99,NULL,NULL,NULL,NULL,NULL,30%,25%,45%,75,gana local
+2023-Pumas,2023-Chivas,2023,Pumas,1,0,Chivas,NULL,NULL,NULL,NULL,NULL,50%,17%,33%,75,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,gana local
+2023-Chivas,2023-Cruz Azul,2023,Chivas,1,0,Cruz Azul,69.7,6.97,20.91,20.91,20.91,44%,33%,22%,99,72.2,7.22,21.66,21.66,21.66,52%,24%,24%,107,gana local
+2023-Querétaro,2023-Chivas,2023,Querétaro,1,2,Chivas,21.45,2.14,6.44,6.44,6.44,35%,12%,53%,64,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,gana visitante
+2023-Chivas,2023-Tigres,2023,Chivas,0,4,Tigres,69.7,6.97,20.91,20.91,20.91,44%,33%,22%,99,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,gana visitante
+2023-Puebla,2023-Chivas,2023,Puebla,0,2,Chivas,26.7,2.67,8.01,8.01,8.01,24%,12%,65%,34,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,gana visitante
+2023-Chivas,2023-Atlas,2023,Chivas,4,1,Atlas,69.7,6.97,20.91,20.91,20.91,44%,33%,22%,99,30.7,3.07,9.21,9.21,9.21,26%,32%,42%,60,gana local
+2023-Toluca,2023-Chivas,2023,Toluca,1,1,Chivas,66.2,6.62,19.86,19.86,19.86,76%,19%,5%,118,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,empate
+2023-Chivas,2023-Mazatlán,2023,Chivas,1,3,Mazatlán,69.7,6.97,20.91,20.91,20.91,44%,33%,22%,99,35.05,3.5,10.51,10.51,10.51,6%,29%,65%,40,gana visitante
+2023-Chivas,2023-Pachuca,2023,Chivas,0,0,Pachuca,69.7,6.97,20.91,20.91,20.91,44%,33%,22%,99,51.25,5.13,15.38,15.38,15.38,26%,16%,58%,98,empate
+2023-América,2023-Chivas,2023,América,4,0,Chivas,84.2,8.42,25.26,25.26,25.26,65%,22%,13%,133,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,gana local
+2023-Chivas,2023-Monterrey,2023,Chivas,1,2,Monterrey,69.7,6.97,20.91,20.91,20.91,44%,33%,22%,99,88.1,8.81,26.43,26.43,26.43,38%,24%,38%,118,gana visitante
+2023-Santos Laguna,2023-Chivas,2023,Santos Laguna,2,1,Chivas,46,4.6,13.8,13.8,13.8,24%,18%,59%,46,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,gana local
+2023-Chivas,2023-Xolos,2023,Chivas,1,0,Xolos,69.7,6.97,20.91,20.91,20.91,44%,33%,22%,99,NULL,NULL,NULL,NULL,NULL,28%,22%,50%,49,gana local
+2023-Juarez,2023-Chivas,2023,Juarez,1,1,Chivas,NULL,NULL,NULL,NULL,NULL,28%,33%,39%,55,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,empate
+2023-Chivas,2023-Necaxa,2023,Chivas,2,0,Necaxa,69.7,6.97,20.91,20.91,20.91,44%,33%,22%,99,40,4,12,12,12,28%,28%,44%,77,gana local
+2023-Chivas,2023-Atlético San Luis,2023,Chivas,3,1,Atlético San Luis,69.7,6.97,20.91,20.91,20.91,44%,33%,22%,99,35.85,3.59,10.77,10.77,10.77,21%,16%,63%,59,gana local
+2023-León,2023-Chivas,2023,León,1,2,Chivas,41.5,4.15,12.45,12.45,12.45,39%,39%,22%,87,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,gana visitante
+2024-Juarez,2024-León,2024,Juarez,1,1,León,NULL,NULL,NULL,NULL,NULL,28%,33%,39%,55,29.55,2.96,8.87,8.87,8.87,28%,28%,44%,87,empate
+2024-Juarez,2024-Xolos,2024,Juarez,0,1,Xolos,NULL,NULL,NULL,NULL,NULL,28%,33%,39%,55,39.15,3.92,11.75,11.75,11.75,28%,22%,50%,49,gana visitante
+2024-Atlético San Luis,2024-Juarez,2024,Atlético San Luis,2,3,Juarez,45.95,4.6,13.84,13.84,13.84,68%,5%,26%,59,NULL,NULL,NULL,NULL,NULL,35%,18%,47%,55,gana visitante
+2024-Juarez,2024-Santos Laguna,2024,Juarez,2,1,Santos Laguna,NULL,NULL,NULL,NULL,NULL,28%,33%,39%,55,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,gana local
+2024-Juarez,2024-Puebla,2024,Juarez,4,3,Puebla,NULL,NULL,NULL,NULL,NULL,28%,33%,39%,55,24.1,2.41,7.23,7.23,7.23,12%,18%,71%,34,gana local
+2024-Juarez,2024-Toluca,2024,Juarez,1,1,Toluca,NULL,NULL,NULL,NULL,NULL,28%,33%,39%,55,77.45,7.75,23.24,23.24,23.24,38%,33%,29%,118,empate
+2024-Pachuca,2024-Juarez,2024,Pachuca,3,2,Juarez,56.6,5.66,16.98,16.98,16.98,39%,33%,28%,98,NULL,NULL,NULL,NULL,NULL,35%,18%,47%,55,gana local
+2024-Tigres,2024-Juarez,2024,Tigres,1,0,Juarez,67,6.7,20.1,20.1,20.1,70%,25%,5%,107,NULL,NULL,NULL,NULL,NULL,35%,18%,47%,55,gana local
+2024-Juarez,2024-Monterrey,2024,Juarez,0,3,Monterrey,NULL,NULL,NULL,NULL,NULL,28%,33%,39%,55,88.6,8.86,26.58,26.58,26.58,38%,24%,38%,118,gana visitante
+2024-Juarez,2024-Necaxa,2024,Juarez,2,2,Necaxa,NULL,NULL,NULL,NULL,NULL,28%,33%,39%,55,38.5,3.85,11.55,11.55,11.55,28%,28%,44%,77,empate
+2024-Juarez,2024-América,2024,Juarez,0,2,América,NULL,NULL,NULL,NULL,NULL,28%,33%,39%,55,92.45,9.25,27.73,27.73,27.73,38%,29%,33%,133,gana visitante
+2024-Juarez,2024-Cruz Azul,2024,Juarez,0,0,Cruz Azul,NULL,NULL,NULL,NULL,NULL,28%,33%,39%,55,78.85,7.89,23.66,23.66,23.66,52%,24%,24%,107,empate
+2023-León,2023-Juarez,2023,León,2,1,Juarez,41.5,4.15,12.45,12.45,12.45,39%,39%,22%,87,NULL,NULL,NULL,NULL,NULL,35%,18%,47%,55,gana local
+2023-Cruz Azul,2023-Juarez,2023,Cruz Azul,2,0,Juarez,72.2,7.22,21.66,21.66,21.66,71%,24%,5%,107,NULL,NULL,NULL,NULL,NULL,35%,18%,47%,55,gana local
+2023-Santos Laguna,2023-Juarez,2023,Santos Laguna,5,1,Juarez,46,4.6,13.8,13.8,13.8,24%,18%,59%,46,NULL,NULL,NULL,NULL,NULL,35%,18%,47%,55,gana local
+2023-Juarez,2023-Atlético San Luis,2023,Juarez,3,2,Atlético San Luis,NULL,NULL,NULL,NULL,NULL,28%,33%,39%,55,35.85,3.59,10.77,10.77,10.77,21%,16%,63%,59,gana local
+2023-Monterrey,2023-Juarez,2023,Monterrey,3,1,Juarez,88.1,8.81,26.43,26.43,26.43,61%,17%,22%,118,NULL,NULL,NULL,NULL,NULL,35%,18%,47%,55,gana local
+2023-Juarez,2023-Atlas,2023,Juarez,1,2,Atlas,NULL,NULL,NULL,NULL,NULL,28%,33%,39%,55,30.7,3.07,9.21,9.21,9.21,26%,32%,42%,60,gana visitante
+2023-Necaxa,2023-Juarez,2023,Necaxa,1,1,Juarez,40,4,12,12,12,44%,22%,33%,77,NULL,NULL,NULL,NULL,NULL,35%,18%,47%,55,empate
+2023-Juarez,2023-Mazatlán,2023,Juarez,3,1,Mazatlán,NULL,NULL,NULL,NULL,NULL,28%,33%,39%,55,35.05,3.5,10.51,10.51,10.51,6%,29%,65%,40,gana local
+2023-Puebla,2023-Juarez,2023,Puebla,1,0,Juarez,26.7,2.67,8.01,8.01,8.01,24%,12%,65%,34,NULL,NULL,NULL,NULL,NULL,35%,18%,47%,55,gana local
+2023-Juarez,2023-Pumas,2023,Juarez,4,1,Pumas,NULL,NULL,NULL,NULL,NULL,28%,33%,39%,55,NULL,NULL,NULL,NULL,NULL,30%,25%,45%,75,gana local
+2023-Juarez,2023-Chivas,2023,Juarez,1,1,Chivas,NULL,NULL,NULL,NULL,NULL,28%,33%,39%,55,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,empate
+2023-Juarez,2023-Tigres,2023,Juarez,1,1,Tigres,NULL,NULL,NULL,NULL,NULL,28%,33%,39%,55,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,empate
+2023-América,2023-Juarez,2023,América,1,2,Juarez,84.2,8.42,25.26,25.26,25.26,65%,22%,13%,133,NULL,NULL,NULL,NULL,NULL,35%,18%,47%,55,gana visitante
+2024-Juarez,2024-León,2024,Juarez,1,1,León,NULL,NULL,NULL,NULL,NULL,28%,33%,39%,55,29.55,2.96,8.87,8.87,8.87,28%,28%,44%,87,empate
+2024-León,2024-Monterrey,2024,León,2,0,Monterrey,29.55,2.96,8.87,8.87,8.87,39%,39%,22%,87,88.6,8.86,26.58,26.58,26.58,38%,24%,38%,118,gana local
+2024-Pumas,2024-León,2024,Pumas,1,0,León,47.6,4.76,14.28,14.28,14.28,50%,17%,33%,75,29.55,2.96,8.87,8.87,8.87,28%,28%,44%,87,gana local
+2024-León,2024-Querétaro,2024,León,0,2,Querétaro,29.55,2.96,8.87,8.87,8.87,39%,39%,22%,87,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,gana visitante
+2024-Necaxa,2024-León,2024,Necaxa,1,2,León,38.5,3.85,11.55,11.55,11.55,44%,22%,33%,77,29.55,2.96,8.87,8.87,8.87,28%,28%,44%,87,gana visitante
+2024-León,2024-Puebla,2024,León,2,1,Puebla,29.55,2.96,8.87,8.87,8.87,39%,39%,22%,87,24.1,2.41,7.23,7.23,7.23,12%,18%,71%,34,gana local
+2024-Chivas,2024-León,2024,Chivas,1,2,León,70.2,7.02,21.06,21.06,21.06,44%,33%,22%,99,29.55,2.96,8.87,8.87,8.87,28%,28%,44%,87,gana visitante
+2024-Xolos,2024-León,2024,Xolos,1,1,León,NULL,NULL,NULL,NULL,NULL,55%,15%,30%,49,29.55,2.96,8.87,8.87,8.87,28%,28%,44%,87,empate
+2024-León,2024-Cruz Azul,2024,León,2,3,Cruz Azul,29.55,2.96,8.87,8.87,8.87,39%,39%,22%,87,78.85,7.89,23.66,23.66,23.66,52%,24%,24%,107,gana visitante
+2024-Atlas,2024-León,2024,Atlas,0,1,León,28.95,2.9,8.68,8.68,8.68,NULL,NULL,NULL,60,29.55,2.96,8.87,8.87,8.87,28%,28%,44%,87,gana visitante
+2024-León,2024-América,2024,León,0,1,América,29.55,2.96,8.87,8.87,8.87,39%,39%,22%,87,92.45,9.25,27.73,27.73,27.73,38%,29%,33%,133,gana visitante
+2024-Pachuca,2024-León,2024,Pachuca,3,2,León,56.6,5.66,16.98,16.98,16.98,39%,33%,28%,98,29.55,2.96,8.87,8.87,8.87,28%,28%,44%,87,gana local
+2024-Toluca,2024-León,2024,Toluca,4,1,León,77.45,7.75,23.24,23.24,23.24,76%,19%,5%,118,29.55,2.96,8.87,8.87,8.87,28%,28%,44%,87,gana local
+2024-Mazatlán,2024-León,2024,Mazatlán,2,2,León,31.45,3.15,9.44,9.44,9.44,29%,47%,24%,40,29.55,2.96,8.87,8.87,8.87,28%,28%,44%,87,empate
+2024-León,2024-Santos Laguna,2024,León,3,2,Santos Laguna,29.55,2.96,8.87,8.87,8.87,39%,39%,22%,87,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,gana local
+2024-León,2024-Tigres,2024,León,1,2,Tigres,29.55,2.96,8.87,8.87,8.87,39%,39%,22%,87,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,gana visitante
+2023-América,2023-León,2023,América,2,0,León,84.2,8.42,25.26,25.26,25.26,65%,22%,13%,133,41.5,4.15,12.45,12.45,12.45,28%,28%,44%,87,gana local
+2023-León,2023-América,2023,León,2,2,América,41.5,4.15,12.45,12.45,12.45,39%,39%,22%,87,84.2,8.42,25.26,25.26,25.26,38%,29%,33%,133,empate
+2023-Atlético San Luis,2023-León,2023,Atlético San Luis,3,2,León,35.85,3.59,10.77,10.77,10.77,68%,5%,26%,59,41.5,4.15,12.45,12.45,12.45,28%,28%,44%,87,gana local
+2023-León,2023-Juarez,2023,León,2,1,Juarez,41.5,4.15,12.45,12.45,12.45,39%,39%,22%,87,NULL,NULL,NULL,NULL,NULL,35%,18%,47%,55,gana local
+2023-Puebla,2023-León,2023,Puebla,5,4,León,26.7,2.67,8.01,8.01,8.01,24%,12%,65%,34,41.5,4.15,12.45,12.45,12.45,28%,28%,44%,87,gana local
+2023-León,2023-Pumas,2023,León,1,1,Pumas,41.5,4.15,12.45,12.45,12.45,39%,39%,22%,87,NULL,NULL,NULL,NULL,NULL,30%,25%,45%,75,empate
+2023-Cruz Azul,2023-León,2023,Cruz Azul,1,0,León,72.2,7.22,21.66,21.66,21.66,71%,24%,5%,107,41.5,4.15,12.45,12.45,12.45,28%,28%,44%,87,gana local
+2023-León,2023-Atlas,2023,León,1,1,Atlas,41.5,4.15,12.45,12.45,12.45,39%,39%,22%,87,30.7,3.07,9.21,9.21,9.21,26%,32%,42%,60,empate
+2023-León,2023-Toluca,2023,León,1,0,Toluca,41.5,4.15,12.45,12.45,12.45,39%,39%,22%,87,66.2,6.62,19.86,19.86,19.86,38%,33%,29%,118,gana local
+2023-Querétaro,2023-León,2023,Querétaro,1,1,León,21.45,2.14,6.44,6.44,6.44,35%,12%,53%,64,41.5,4.15,12.45,12.45,12.45,28%,28%,44%,87,empate
+2023-León,2023-Xolos,2023,León,1,0,Xolos,41.5,4.15,12.45,12.45,12.45,39%,39%,22%,87,NULL,NULL,NULL,NULL,NULL,28%,22%,50%,49,gana local
+2023-León,2023-Necaxa,2023,León,1,1,Necaxa,41.5,4.15,12.45,12.45,12.45,39%,39%,22%,87,40,4,12,12,12,28%,28%,44%,77,empate
+2023-Atlético San Luis,2023-León,2023,Atlético San Luis,3,0,León,35.85,3.59,10.77,10.77,10.77,68%,5%,26%,59,41.5,4.15,12.45,12.45,12.45,28%,28%,44%,87,gana local
+2023-León,2023-Mazatlán,2023,León,2,1,Mazatlán,41.5,4.15,12.45,12.45,12.45,39%,39%,22%,87,35.05,3.5,10.51,10.51,10.51,6%,29%,65%,40,gana local
+2023-Tigres,2023-León,2023,Tigres,1,0,León,67.6,6.76,20.28,20.28,20.28,70%,25%,5%,107,41.5,4.15,12.45,12.45,12.45,28%,28%,44%,87,gana local
+2023-León,2023-Pachuca,2023,León,4,0,Pachuca,41.5,4.15,12.45,12.45,12.45,39%,39%,22%,87,51.25,5.13,15.38,15.38,15.38,26%,16%,58%,98,gana local
+2023-León,2023-Chivas,2023,León,1,2,Chivas,41.5,4.15,12.45,12.45,12.45,39%,39%,22%,87,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,gana visitante
+2024-Pachuca,2024-Mazatlán,2024,Pachuca,1,1,Mazatlán,56.6,5.66,16.98,16.98,16.98,39%,33%,28%,98,31.45,3.15,9.44,9.44,9.44,6%,29%,65%,40,empate
+2024-Mazatlán,2024-Pumas,2024,Mazatlán,0,4,Pumas,31.45,3.15,9.44,9.44,9.44,29%,47%,24%,40,47.6,4.76,14.28,14.28,14.28,30%,25%,45%,75,gana visitante
+2024-Mazatlán,2024-Xolos,2024,Mazatlán,2,0,Xolos,31.45,3.15,9.44,9.44,9.44,29%,47%,24%,40,39.15,3.92,11.75,11.75,11.75,28%,22%,50%,49,gana local
+2024-Tigres,2024-Mazatlán,2024,Tigres,5,1,Mazatlán,67,6.7,20.1,20.1,20.1,70%,25%,5%,107,31.45,3.15,9.44,9.44,9.44,6%,29%,65%,40,gana local
+2024-Monterrey,2024-Mazatlán,2024,Monterrey,2,1,Mazatlán,88.6,8.86,26.58,26.58,26.58,61%,17%,22%,118,31.45,3.15,9.44,9.44,9.44,6%,29%,65%,40,gana local
+2024-Mazatlán,2024-Necaxa,2024,Mazatlán,2,1,Necaxa,31.45,3.15,9.44,9.44,9.44,29%,47%,24%,40,38.5,3.85,11.55,11.55,11.55,28%,28%,44%,77,gana local
+2024-Santos Laguna,2024-Mazatlán,2024,Santos Laguna,1,0,Mazatlán,35.9,3.59,10.77,10.77,10.77,24%,18%,59%,46,31.45,3.15,9.44,9.44,9.44,6%,29%,65%,40,gana local
+2024-América,2024-Mazatlán,2024,América,2,2,Mazatlán,92.45,9.25,27.73,27.73,27.73,65%,22%,13%,133,31.45,3.15,9.44,9.44,9.44,6%,29%,65%,40,empate
+2024-Mazatlán,2024-Chivas,2024,Mazatlán,2,2,Chivas,31.45,3.15,9.44,9.44,9.44,29%,47%,24%,40,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,empate
+2024-Mazatlán,2024-Atlas,2024,Mazatlán,2,0,Atlas,31.45,3.15,9.44,9.44,9.44,29%,47%,24%,40,28.95,2.9,8.68,8.68,8.68,26%,32%,42%,60,gana local
+2024-Mazatlán,2024-León,2024,Mazatlán,2,2,León,31.45,3.15,9.44,9.44,9.44,29%,47%,24%,40,29.55,2.96,8.87,8.87,8.87,28%,28%,44%,87,empate
+2024-Cruz Azul,2024-Mazatlán,2024,Cruz Azul,2,1,Mazatlán,78.85,7.89,23.66,23.66,23.66,71%,24%,5%,107,31.45,3.15,9.44,9.44,9.44,6%,29%,65%,40,gana local
+2024-Toluca,2024-Mazatlán,2024,Toluca,4,1,Mazatlán,77.45,7.75,23.24,23.24,23.24,76%,19%,5%,118,31.45,3.15,9.44,9.44,9.44,6%,29%,65%,40,gana local
+2024-Mazatlán,2024-Atlético San Luis,2024,Mazatlán,0,1,Atlético San Luis,31.45,3.15,9.44,9.44,9.44,29%,47%,24%,40,45.95,4.6,13.84,13.84,13.84,21%,16%,63%,59,gana visitante
+2023-Santos Laguna,2023-Mazatlán,2023,Santos Laguna,2,1,Mazatlán,46,4.6,13.8,13.8,13.8,24%,18%,59%,46,35.05,3.5,10.51,10.51,10.51,6%,29%,65%,40,gana local
+2023-Mazatlán,2023-Toluca,2023,Mazatlán,1,0,Toluca,35.05,3.5,10.51,10.51,10.51,29%,47%,24%,40,66.2,6.62,19.86,19.86,19.86,38%,33%,29%,118,gana local
+2023-Necaxa,2023-Mazatlán,2023,Necaxa,4,0,Mazatlán,40,4,12,12,12,44%,22%,33%,77,35.05,3.5,10.51,10.51,10.51,6%,29%,65%,40,gana local
+2023-Mazatlán,2023-Santos Laguna,2023,Mazatlán,3,1,Santos Laguna,35.05,3.5,10.51,10.51,10.51,29%,47%,24%,40,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,gana local
+2023-Mazatlán,2023-Querétaro,2023,Mazatlán,3,0,Querétaro,35.05,3.5,10.51,10.51,10.51,29%,47%,24%,40,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,gana local
+2023-Mazatlán,2023-América,2023,Mazatlán,1,2,América,35.05,3.5,10.51,10.51,10.51,29%,47%,24%,40,84.2,8.42,25.26,25.26,25.26,38%,29%,33%,133,gana visitante
+2023-Mazatlán,2023-Tigres,2023,Mazatlán,2,3,Tigres,35.05,3.5,10.51,10.51,10.51,29%,47%,24%,40,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,gana visitante
+2023-Chivas,2023-Mazatlán,2023,Chivas,1,3,Mazatlán,69.7,6.97,20.91,20.91,20.91,44%,33%,22%,99,35.05,3.5,10.51,10.51,10.51,6%,29%,65%,40,gana visitante
+2023-Atlético San Luis,2023-Mazatlán,2023,Atlético San Luis,3,2,Mazatlán,35.85,3.59,10.77,10.77,10.77,68%,5%,26%,59,35.05,3.5,10.51,10.51,10.51,6%,29%,65%,40,gana local
+2023-Mazatlán,2023-Cruz Azul,2023,Mazatlán,2,2,Cruz Azul,35.05,3.5,10.51,10.51,10.51,29%,47%,24%,40,72.2,7.22,21.66,21.66,21.66,52%,24%,24%,107,empate
+2023-Juarez,2023-Mazatlán,2023,Juarez,3,1,Mazatlán,NULL,NULL,NULL,NULL,NULL,28%,33%,39%,55,35.05,3.5,10.51,10.51,10.51,6%,29%,65%,40,gana local
+2023-Xolos,2023-Mazatlán,2023,Xolos,1,1,Mazatlán,38.3,3.83,11.49,11.49,11.49,55%,15%,30%,49,35.05,3.5,10.51,10.51,10.51,6%,29%,65%,40,empate
+2023-León,2023-Mazatlán,2023,León,2,1,Mazatlán,41.5,4.15,12.45,12.45,12.45,39%,39%,22%,87,35.05,3.5,10.51,10.51,10.51,6%,29%,65%,40,gana local
+2023-Pumas,2023-Mazatlán,2023,Pumas,0,0,Mazatlán,NULL,NULL,NULL,NULL,NULL,50%,17%,33%,75,35.05,3.5,10.51,10.51,10.51,6%,29%,65%,40,empate
+2023-Mazatlán,2023-Pachuca,2023,Mazatlán,1,1,Pachuca,35.05,3.5,10.51,10.51,10.51,29%,47%,24%,40,51.25,5.13,15.38,15.38,15.38,26%,16%,58%,98,empate
+2024-Cruz Azul,2024-Monterrey,2024,Cruz Azul,1,2,Monterrey,78.85,7.89,23.66,23.66,23.66,71%,24%,5%,107,88.6,8.86,26.58,26.58,26.58,38%,24%,38%,118,gana visitante
+2024-Monterrey,2024-Cruz Azul,2024,Monterrey,0,1,Cruz Azul,88.6,8.86,26.58,26.58,26.58,61%,17%,22%,118,78.85,7.89,23.66,23.66,23.66,52%,24%,24%,107,gana visitante
+2024-Monterrey,2024-Tigres,2024,Monterrey,1,1,Tigres,88.6,8.86,26.58,26.58,26.58,61%,17%,22%,118,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,empate
+2024-Tigres,2024-Monterrey,2024,Tigres,1,2,Monterrey,67,6.7,20.1,20.1,20.1,70%,25%,5%,107,88.6,8.86,26.58,26.58,26.58,38%,24%,38%,118,gana visitante
+2024-León,2024-Monterrey,2024,León,2,0,Monterrey,29.55,2.96,8.87,8.87,8.87,39%,39%,22%,87,88.6,8.86,26.58,26.58,26.58,38%,24%,38%,118,gana local
+2024-Monterrey,2024-Tigres,2024,Monterrey,3,3,Tigres,88.6,8.86,26.58,26.58,26.58,61%,17%,22%,118,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,empate
+2024-Cruz Azul,2024-Monterrey,2024,Cruz Azul,2,1,Monterrey,78.85,7.89,23.66,23.66,23.66,71%,24%,5%,107,88.6,8.86,26.58,26.58,26.58,38%,24%,38%,118,gana local
+2024-Monterrey,2024-Mazatlán,2024,Monterrey,2,1,Mazatlán,88.6,8.86,26.58,26.58,26.58,61%,17%,22%,118,31.45,3.15,9.44,9.44,9.44,6%,29%,65%,40,gana local
+2024-Monterrey,2024-Pumas,2024,Monterrey,3,0,Pumas,88.6,8.86,26.58,26.58,26.58,61%,17%,22%,118,47.6,4.76,14.28,14.28,14.28,30%,25%,45%,75,gana local
+2024-Xolos,2024-Monterrey,2024,Xolos,1,1,Monterrey,NULL,NULL,NULL,NULL,NULL,55%,15%,30%,49,88.6,8.86,26.58,26.58,26.58,38%,24%,38%,118,empate
+2024-Juarez,2024-Monterrey,2024,Juarez,0,3,Monterrey,NULL,NULL,NULL,NULL,NULL,28%,33%,39%,55,88.6,8.86,26.58,26.58,26.58,38%,24%,38%,118,gana visitante
+2024-Monterrey,2024-Toluca,2024,Monterrey,0,0,Toluca,88.6,8.86,26.58,26.58,26.58,61%,17%,22%,118,77.45,7.75,23.24,23.24,23.24,38%,33%,29%,118,empate
+2024-Monterrey,2024-Pachuca,2024,Monterrey,3,2,Pachuca,88.6,8.86,26.58,26.58,26.58,61%,17%,22%,118,56.6,5.66,16.98,16.98,16.98,26%,16%,58%,98,gana local
+2024-América,2024-Monterrey,2024,América,1,1,Monterrey,92.45,9.25,27.73,27.73,27.73,65%,22%,13%,133,88.6,8.86,26.58,26.58,26.58,38%,24%,38%,118,empate
+2024-Monterrey,2024-Atlético San Luis,2024,Monterrey,3,1,Atlético San Luis,88.6,8.86,26.58,26.58,26.58,61%,17%,22%,118,45.95,4.6,13.84,13.84,13.84,21%,16%,63%,59,gana local
+2024-Monterrey,2024-Querétaro,2024,Monterrey,1,1,Querétaro,88.6,8.86,26.58,26.58,26.58,61%,17%,22%,118,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,empate
+2024-Santos Laguna,2024-Monterrey,2024,Santos Laguna,0,2,Monterrey,35.9,3.59,10.77,10.77,10.77,24%,18%,59%,46,88.6,8.86,26.58,26.58,26.58,38%,24%,38%,118,gana visitante
+2024-Monterrey,2024-Puebla,2024,Monterrey,2,0,Puebla,88.6,8.86,26.58,26.58,26.58,61%,17%,22%,118,24.1,2.41,7.23,7.23,7.23,12%,18%,71%,34,gana local
+2023-Monterrey,2023-Atlético San Luis,2023,Monterrey,1,1,Atlético San Luis,88.1,8.81,26.43,26.43,26.43,61%,17%,22%,118,35.85,3.59,10.77,10.77,10.77,21%,16%,63%,59,empate
+2023-Atlético San Luis,2023-Monterrey,2023,Atlético San Luis,1,0,Monterrey,35.85,3.59,10.77,10.77,10.77,68%,5%,26%,59,88.1,8.81,26.43,26.43,26.43,38%,24%,38%,118,gana local
+2023-Querétaro,2023-Monterrey,2023,Querétaro,0,0,Monterrey,21.45,2.14,6.44,6.44,6.44,35%,12%,53%,64,88.1,8.81,26.43,26.43,26.43,38%,24%,38%,118,empate
+2023-Monterrey,2023-Santos Laguna,2023,Monterrey,3,0,Santos Laguna,88.1,8.81,26.43,26.43,26.43,61%,17%,22%,118,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,gana local
+2023-Pachuca,2023-Monterrey,2023,Pachuca,0,2,Monterrey,51.25,5.13,15.38,15.38,15.38,39%,33%,28%,98,88.1,8.81,26.43,26.43,26.43,38%,24%,38%,118,gana visitante
+2023-Monterrey,2023-Necaxa,2023,Monterrey,3,0,Necaxa,88.1,8.81,26.43,26.43,26.43,61%,17%,22%,118,40,4,12,12,12,28%,28%,44%,77,gana local
+2023-Monterrey,2023-Xolos,2023,Monterrey,3,1,Xolos,88.1,8.81,26.43,26.43,26.43,61%,17%,22%,118,NULL,NULL,NULL,NULL,NULL,28%,22%,50%,49,gana local
+2023-Pumas,2023-Monterrey,2023,Pumas,0,1,Monterrey,NULL,NULL,NULL,NULL,NULL,50%,17%,33%,75,88.1,8.81,26.43,26.43,26.43,38%,24%,38%,118,gana visitante
+2023-Monterrey,2023-Juarez,2023,Monterrey,3,1,Juarez,88.1,8.81,26.43,26.43,26.43,61%,17%,22%,118,NULL,NULL,NULL,NULL,NULL,35%,18%,47%,55,gana local
+2023-Puebla,2023-Monterrey,2023,Puebla,1,1,Monterrey,26.7,2.67,8.01,8.01,8.01,24%,12%,65%,34,88.1,8.81,26.43,26.43,26.43,38%,24%,38%,118,empate
+2023-Tigres,2023-Monterrey,2023,Tigres,3,0,Monterrey,67.6,6.76,20.28,20.28,20.28,70%,25%,5%,107,88.1,8.81,26.43,26.43,26.43,38%,24%,38%,118,gana local
+2023-Chivas,2023-Monterrey,2023,Chivas,1,2,Monterrey,69.7,6.97,20.91,20.91,20.91,44%,33%,22%,99,88.1,8.81,26.43,26.43,26.43,38%,24%,38%,118,gana visitante
+2023-Toluca,2023-Monterrey,2023,Toluca,1,0,Monterrey,66.2,6.62,19.86,19.86,19.86,76%,19%,5%,118,88.1,8.81,26.43,26.43,26.43,38%,24%,38%,118,gana local
+2023-Monterrey,2023-Cruz Azul,2023,Monterrey,1,2,Cruz Azul,88.1,8.81,26.43,26.43,26.43,61%,17%,22%,118,72.2,7.22,21.66,21.66,21.66,52%,24%,24%,107,gana visitante
+2023-Monterrey,2023-Atlas,2023,Monterrey,1,0,Atlas,88.1,8.81,26.43,26.43,26.43,61%,17%,22%,118,30.7,3.07,9.21,9.21,9.21,26%,32%,42%,60,gana local
+2023-Atlético San Luis,2023-Monterrey,2023,Atlético San Luis,1,1,Monterrey,35.85,3.59,10.77,10.77,10.77,68%,5%,26%,59,88.1,8.81,26.43,26.43,26.43,38%,24%,38%,118,empate
+2024-Necaxa,2024-Querétaro,2024,Necaxa,1,1,Querétaro,38.5,3.85,11.55,11.55,11.55,44%,22%,33%,77,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,empate
+2024-Tigres,2024-Necaxa,2024,Tigres,5,2,Necaxa,67,6.7,20.1,20.1,20.1,70%,25%,5%,107,38.5,3.85,11.55,11.55,11.55,28%,28%,44%,77,gana local
+2024-Necaxa,2024-Santos Laguna,2024,Necaxa,2,0,Santos Laguna,38.5,3.85,11.55,11.55,11.55,44%,22%,33%,77,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,gana local
+2024-Xolos,2024-Necaxa,2024,Xolos,2,3,Necaxa,NULL,NULL,NULL,NULL,NULL,55%,15%,30%,49,38.5,3.85,11.55,11.55,11.55,28%,28%,44%,77,gana visitante
+2024-Necaxa,2024-León,2024,Necaxa,1,2,León,38.5,3.85,11.55,11.55,11.55,44%,22%,33%,77,29.55,2.96,8.87,8.87,8.87,28%,28%,44%,87,gana visitante
+2024-Cruz Azul,2024-Necaxa,2024,Cruz Azul,1,2,Necaxa,78.85,7.89,23.66,23.66,23.66,71%,24%,5%,107,38.5,3.85,11.55,11.55,11.55,28%,28%,44%,77,gana visitante
+2024-Necaxa,2024-Atlético San Luis,2024,Necaxa,3,1,Atlético San Luis,38.5,3.85,11.55,11.55,11.55,44%,22%,33%,77,45.95,4.6,13.84,13.84,13.84,21%,16%,63%,59,gana local
+2024-Mazatlán,2024-Necaxa,2024,Mazatlán,2,1,Necaxa,31.45,3.15,9.44,9.44,9.44,29%,47%,24%,40,38.5,3.85,11.55,11.55,11.55,28%,28%,44%,77,gana local
+2024-Necaxa,2024-Pachuca,2024,Necaxa,1,1,Pachuca,38.5,3.85,11.55,11.55,11.55,44%,22%,33%,77,56.6,5.66,16.98,16.98,16.98,26%,16%,58%,98,empate
+2024-Necaxa,2024-Chivas,2024,Necaxa,1,0,Chivas,38.5,3.85,11.55,11.55,11.55,44%,22%,33%,77,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,gana local
+2024-Necaxa,2024-Toluca,2024,Necaxa,3,3,Toluca,38.5,3.85,11.55,11.55,11.55,44%,22%,33%,77,77.45,7.75,23.24,23.24,23.24,38%,33%,29%,118,empate
+2024-Juarez,2024-Necaxa,2024,Juarez,2,2,Necaxa,NULL,NULL,NULL,NULL,NULL,28%,33%,39%,55,38.5,3.85,11.55,11.55,11.55,28%,28%,44%,77,empate
+2024-Pumas,2024-Necaxa,2024,Pumas,2,2,Necaxa,47.6,4.76,14.28,14.28,14.28,50%,17%,33%,75,38.5,3.85,11.55,11.55,11.55,28%,28%,44%,77,empate
+2024-Puebla,2024-Necaxa,2024,Puebla,1,2,Necaxa,24.1,2.41,7.23,7.23,7.23,24%,12%,65%,34,38.5,3.85,11.55,11.55,11.55,28%,28%,44%,77,gana visitante
+2024-Necaxa,2024-Atlas,2024,Necaxa,2,1,Atlas,38.5,3.85,11.55,11.55,11.55,44%,22%,33%,77,28.95,2.9,8.68,8.68,8.68,26%,32%,42%,60,gana local
+2023-Necaxa,2023-Mazatlán,2023,Necaxa,4,0,Mazatlán,40,4,12,12,12,44%,22%,33%,77,35.05,3.5,10.51,10.51,10.51,6%,29%,65%,40,gana local
+2023-Monterrey,2023-Necaxa,2023,Monterrey,3,0,Necaxa,88.1,8.81,26.43,26.43,26.43,61%,17%,22%,118,40,4,12,12,12,28%,28%,44%,77,gana local
+2023-Necaxa,2023-Pumas,2023,Necaxa,1,0,Pumas,40,4,12,12,12,44%,22%,33%,77,NULL,NULL,NULL,NULL,NULL,30%,25%,45%,75,gana local
+2023-Atlético San Luis,2023-Necaxa,2023,Atlético San Luis,4,0,Necaxa,35.85,3.59,10.77,10.77,10.77,68%,5%,26%,59,40,4,12,12,12,28%,28%,44%,77,gana local
+2023-Necaxa,2023-Cruz Azul,2023,Necaxa,1,3,Cruz Azul,40,4,12,12,12,44%,22%,33%,77,72.2,7.22,21.66,21.66,21.66,52%,24%,24%,107,gana visitante
+2023-Santos Laguna,2023-Necaxa,2023,Santos Laguna,2,5,Necaxa,46,4.6,13.8,13.8,13.8,24%,18%,59%,46,40,4,12,12,12,28%,28%,44%,77,gana visitante
+2023-Necaxa,2023-Juarez,2023,Necaxa,1,1,Juarez,40,4,12,12,12,44%,22%,33%,77,NULL,NULL,NULL,NULL,NULL,35%,18%,47%,55,empate
+2023-León,2023-Necaxa,2023,León,1,1,Necaxa,41.5,4.15,12.45,12.45,12.45,39%,39%,22%,87,40,4,12,12,12,28%,28%,44%,77,empate
+2023-Necaxa,2023-Querétaro,2023,Necaxa,0,1,Querétaro,40,4,12,12,12,44%,22%,33%,77,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,gana visitante
+2023-América,2023-Necaxa,2023,América,3,2,Necaxa,84.2,8.42,25.26,25.26,25.26,65%,22%,13%,133,40,4,12,12,12,28%,28%,44%,77,gana local
+2023-Necaxa,2023-Tigres,2023,Necaxa,0,3,Tigres,40,4,12,12,12,44%,22%,33%,77,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,gana visitante
+2023-Chivas,2023-Necaxa,2023,Chivas,2,0,Necaxa,69.7,6.97,20.91,20.91,20.91,44%,33%,22%,99,40,4,12,12,12,28%,28%,44%,77,gana local
+2023-Necaxa,2023-Xolos,2023,Necaxa,1,1,Xolos,40,4,12,12,12,44%,22%,33%,77,NULL,NULL,NULL,NULL,NULL,28%,22%,50%,49,empate
+2023-Toluca,2023-Necaxa,2023,Toluca,0,0,Necaxa,66.2,6.62,19.86,19.86,19.86,76%,19%,5%,118,40,4,12,12,12,28%,28%,44%,77,empate
+2024-América,2024-Pachuca,2024,América,1,1,Pachuca,92.45,9.25,27.73,27.73,27.73,65%,22%,13%,133,56.6,5.66,16.98,16.98,16.98,26%,16%,58%,98,empate
+2024-Pachuca,2024-América,2024,Pachuca,1,1,América,56.6,5.66,16.98,16.98,16.98,39%,33%,28%,98,92.45,9.25,27.73,27.73,27.73,38%,29%,33%,133,empate
+2024-Pachuca,2024-Pumas,2024,Pachuca,0,0,Pumas,56.6,5.66,16.98,16.98,16.98,39%,33%,28%,98,47.6,4.76,14.28,14.28,14.28,30%,25%,45%,75,empate
+2024-Pachuca,2024-Mazatlán,2024,Pachuca,1,1,Mazatlán,56.6,5.66,16.98,16.98,16.98,39%,33%,28%,98,31.45,3.15,9.44,9.44,9.44,6%,29%,65%,40,empate
+2024-Santos Laguna,2024-Pachuca,2024,Santos Laguna,0,2,Pachuca,35.9,3.59,10.77,10.77,10.77,24%,18%,59%,46,56.6,5.66,16.98,16.98,16.98,26%,16%,58%,98,gana visitante
+2024-Pachuca,2024-Chivas,2024,Pachuca,0,1,Chivas,56.6,5.66,16.98,16.98,16.98,39%,33%,28%,98,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,gana visitante
+2024-Tigres,2024-Pachuca,2024,Tigres,0,3,Pachuca,67,6.7,20.1,20.1,20.1,70%,25%,5%,107,56.6,5.66,16.98,16.98,16.98,26%,16%,58%,98,gana visitante
+2024-Pachuca,2024-Toluca,2024,Pachuca,2,3,Toluca,56.6,5.66,16.98,16.98,16.98,39%,33%,28%,98,77.45,7.75,23.24,23.24,23.24,38%,33%,29%,118,gana visitante
+2024-Atlético San Luis,2024-Pachuca,2024,Atlético San Luis,2,1,Pachuca,45.95,4.6,13.84,13.84,13.84,68%,5%,26%,59,56.6,5.66,16.98,16.98,16.98,26%,16%,58%,98,gana local
+2024-Pachuca,2024-Querétaro,2024,Pachuca,1,2,Querétaro,56.6,5.66,16.98,16.98,16.98,39%,33%,28%,98,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,gana visitante
+2024-Pachuca,2024-Juarez,2024,Pachuca,3,2,Juarez,56.6,5.66,16.98,16.98,16.98,39%,33%,28%,98,NULL,NULL,NULL,NULL,NULL,35%,18%,47%,55,gana local
+2024-Necaxa,2024-Pachuca,2024,Necaxa,1,1,Pachuca,38.5,3.85,11.55,11.55,11.55,44%,22%,33%,77,56.6,5.66,16.98,16.98,16.98,26%,16%,58%,98,empate
+2024-Puebla,2024-Pachuca,2024,Puebla,1,4,Pachuca,24.1,2.41,7.23,7.23,7.23,24%,12%,65%,34,56.6,5.66,16.98,16.98,16.98,26%,16%,58%,98,gana visitante
+2024-Pachuca,2024-América,2024,Pachuca,2,1,América,56.6,5.66,16.98,16.98,16.98,39%,33%,28%,98,92.45,9.25,27.73,27.73,27.73,38%,29%,33%,133,gana local
+2024-Monterrey,2024-Pachuca,2024,Monterrey,3,2,Pachuca,88.6,8.86,26.58,26.58,26.58,61%,17%,22%,118,56.6,5.66,16.98,16.98,16.98,26%,16%,58%,98,gana local
+2024-Pachuca,2024-León,2024,Pachuca,3,2,León,56.6,5.66,16.98,16.98,16.98,39%,33%,28%,98,29.55,2.96,8.87,8.87,8.87,28%,28%,44%,87,gana local
+2024-Pachuca,2024-Xolos,2024,Pachuca,3,2,Xolos,56.6,5.66,16.98,16.98,16.98,39%,33%,28%,98,39.15,3.92,11.75,11.75,11.75,28%,22%,50%,49,gana local
+2024-Pachuca,2024-Atlas,2024,Pachuca,4,3,Atlas,56.6,5.66,16.98,16.98,16.98,39%,33%,28%,98,28.95,2.9,8.68,8.68,8.68,26%,32%,42%,60,gana local
+2024-Pumas,2024-Pachuca,2024,Pumas,3,1,Pachuca,47.6,4.76,14.28,14.28,14.28,50%,17%,33%,75,56.6,5.66,16.98,16.98,16.98,26%,16%,58%,98,gana local
+2024-Cruz Azul,2024-Pachuca,2024,Cruz Azul,0,1,Pachuca,78.85,7.89,23.66,23.66,23.66,71%,24%,5%,107,56.6,5.66,16.98,16.98,16.98,26%,16%,58%,98,gana visitante
+2023-Xolos,2023-Pachuca,2023,Xolos,2,3,Pachuca,38.3,3.83,11.49,11.49,11.49,55%,15%,30%,49,51.25,5.13,15.38,15.38,15.38,26%,16%,58%,98,gana visitante
+2023-Pachuca,2023-Monterrey,2023,Pachuca,0,2,Monterrey,51.25,5.13,15.38,15.38,15.38,39%,33%,28%,98,88.1,8.81,26.43,26.43,26.43,38%,24%,38%,118,gana visitante
+2023-Atlas,2023-Pachuca,2023,Atlas,0,2,Pachuca,30.7,3.07,9.21,9.21,9.21,NULL,NULL,NULL,60,51.25,5.13,15.38,15.38,15.38,26%,16%,58%,98,gana visitante
+2023-Pachuca,2023-Puebla,2023,Pachuca,1,1,Puebla,51.25,5.13,15.38,15.38,15.38,39%,33%,28%,98,26.7,2.67,8.01,8.01,8.01,12%,18%,71%,34,empate
+2023-Pachuca,2023-Tigres,2023,Pachuca,1,1,Tigres,51.25,5.13,15.38,15.38,15.38,39%,33%,28%,98,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,empate
+2023-América,2023-Pachuca,2023,América,4,0,Pachuca,84.2,8.42,25.26,25.26,25.26,65%,22%,13%,133,51.25,5.13,15.38,15.38,15.38,26%,16%,58%,98,gana local
+2023-Chivas,2023-Pachuca,2023,Chivas,0,0,Pachuca,69.7,6.97,20.91,20.91,20.91,44%,33%,22%,99,51.25,5.13,15.38,15.38,15.38,26%,16%,58%,98,empate
+2023-Pachuca,2023-Santos Laguna,2023,Pachuca,3,2,Santos Laguna,51.25,5.13,15.38,15.38,15.38,39%,33%,28%,98,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,gana local
+2023-Toluca,2023-Pachuca,2023,Toluca,5,0,Pachuca,66.2,6.62,19.86,19.86,19.86,76%,19%,5%,118,51.25,5.13,15.38,15.38,15.38,26%,16%,58%,98,gana local
+2023-Pachuca,2023-Atlético San Luis,2023,Pachuca,0,2,Atlético San Luis,51.25,5.13,15.38,15.38,15.38,39%,33%,28%,98,35.85,3.59,10.77,10.77,10.77,21%,16%,63%,59,gana visitante
+2023-Pachuca,2023-Cruz Azul,2023,Pachuca,1,0,Cruz Azul,51.25,5.13,15.38,15.38,15.38,39%,33%,28%,98,72.2,7.22,21.66,21.66,21.66,52%,24%,24%,107,gana local
+2023-Querétaro,2023-Pachuca,2023,Querétaro,1,1,Pachuca,21.45,2.14,6.44,6.44,6.44,35%,12%,53%,64,51.25,5.13,15.38,15.38,15.38,26%,16%,58%,98,empate
+2023-Pachuca,2023-Pumas,2023,Pachuca,1,1,Pumas,51.25,5.13,15.38,15.38,15.38,39%,33%,28%,98,NULL,NULL,NULL,NULL,NULL,30%,25%,45%,75,empate
+2023-León,2023-Pachuca,2023,León,4,0,Pachuca,41.5,4.15,12.45,12.45,12.45,39%,39%,22%,87,51.25,5.13,15.38,15.38,15.38,26%,16%,58%,98,gana local
+2023-Mazatlán,2023-Pachuca,2023,Mazatlán,1,1,Pachuca,35.05,3.5,10.51,10.51,10.51,29%,47%,24%,40,51.25,5.13,15.38,15.38,15.38,26%,16%,58%,98,empate
+2024-Puebla,2024-América,2024,Puebla,1,2,América,24.1,2.41,7.23,7.23,7.23,24%,12%,65%,34,92.45,9.25,27.73,27.73,27.73,38%,29%,33%,133,gana visitante
+2024-Xolos,2024-Puebla,2024,Xolos,3,1,Puebla,NULL,NULL,NULL,NULL,NULL,55%,15%,30%,49,24.1,2.41,7.23,7.23,7.23,12%,18%,71%,34,gana local
+2024-Puebla,2024-Cruz Azul,2024,Puebla,0,1,Cruz Azul,24.1,2.41,7.23,7.23,7.23,24%,12%,65%,34,78.85,7.89,23.66,23.66,23.66,52%,24%,24%,107,gana visitante
+2024-Chivas,2024-Puebla,2024,Chivas,3,2,Puebla,70.2,7.02,21.06,21.06,21.06,44%,33%,22%,99,24.1,2.41,7.23,7.23,7.23,12%,18%,71%,34,gana local
+2024-Puebla,2024-Tigres,2024,Puebla,2,3,Tigres,24.1,2.41,7.23,7.23,7.23,24%,12%,65%,34,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,gana visitante
+2024-Juarez,2024-Puebla,2024,Juarez,4,3,Puebla,NULL,NULL,NULL,NULL,NULL,28%,33%,39%,55,24.1,2.41,7.23,7.23,7.23,12%,18%,71%,34,gana local
+2024-León,2024-Puebla,2024,León,2,1,Puebla,29.55,2.96,8.87,8.87,8.87,39%,39%,22%,87,24.1,2.41,7.23,7.23,7.23,12%,18%,71%,34,gana local
+2024-Puebla,2024-Atlas,2024,Puebla,2,2,Atlas,24.1,2.41,7.23,7.23,7.23,24%,12%,65%,34,28.95,2.9,8.68,8.68,8.68,26%,32%,42%,60,empate
+2024-Atlético San Luis,2024-Puebla,2024,Atlético San Luis,4,0,Puebla,45.95,4.6,13.84,13.84,13.84,68%,5%,26%,59,24.1,2.41,7.23,7.23,7.23,12%,18%,71%,34,gana local
+2024-Puebla,2024-Querétaro,2024,Puebla,0,2,Querétaro,24.1,2.41,7.23,7.23,7.23,24%,12%,65%,34,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,gana visitante
+2024-Puebla,2024-Pachuca,2024,Puebla,1,4,Pachuca,24.1,2.41,7.23,7.23,7.23,24%,12%,65%,34,56.6,5.66,16.98,16.98,16.98,26%,16%,58%,98,gana visitante
+2024-Pumas,2024-Puebla,2024,Pumas,3,0,Puebla,47.6,4.76,14.28,14.28,14.28,50%,17%,33%,75,24.1,2.41,7.23,7.23,7.23,12%,18%,71%,34,gana local
+2024-Santos Laguna,2024-Puebla,2024,Santos Laguna,3,0,Puebla,35.9,3.59,10.77,10.77,10.77,24%,18%,59%,46,24.1,2.41,7.23,7.23,7.23,12%,18%,71%,34,gana local
+2024-Puebla,2024-Toluca,2024,Puebla,1,1,Toluca,24.1,2.41,7.23,7.23,7.23,24%,12%,65%,34,77.45,7.75,23.24,23.24,23.24,38%,33%,29%,118,empate
+2024-Puebla,2024-Necaxa,2024,Puebla,1,2,Necaxa,24.1,2.41,7.23,7.23,7.23,24%,12%,65%,34,38.5,3.85,11.55,11.55,11.55,28%,28%,44%,77,gana visitante
+2024-Monterrey,2024-Puebla,2024,Monterrey,2,0,Puebla,88.6,8.86,26.58,26.58,26.58,61%,17%,22%,118,24.1,2.41,7.23,7.23,7.23,12%,18%,71%,34,gana local
+2023-Tigres,2023-Puebla,2023,Tigres,3,0,Puebla,67.6,6.76,20.28,20.28,20.28,70%,25%,5%,107,26.7,2.67,8.01,8.01,8.01,12%,18%,71%,34,gana local
+2023-Puebla,2023-Tigres,2023,Puebla,2,2,Tigres,26.7,2.67,8.01,8.01,8.01,24%,12%,65%,34,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,empate
+2023-Cruz Azul,2023-Puebla,2023,Cruz Azul,1,2,Puebla,72.2,7.22,21.66,21.66,21.66,71%,24%,5%,107,26.7,2.67,8.01,8.01,8.01,12%,18%,71%,34,gana visitante
+2023-Puebla,2023-León,2023,Puebla,5,4,León,26.7,2.67,8.01,8.01,8.01,24%,12%,65%,34,41.5,4.15,12.45,12.45,12.45,28%,28%,44%,87,gana local
+2023-Toluca,2023-Puebla,2023,Toluca,0,1,Puebla,66.2,6.62,19.86,19.86,19.86,76%,19%,5%,118,26.7,2.67,8.01,8.01,8.01,12%,18%,71%,34,gana visitante
+2023-Pachuca,2023-Puebla,2023,Pachuca,1,1,Puebla,51.25,5.13,15.38,15.38,15.38,39%,33%,28%,98,26.7,2.67,8.01,8.01,8.01,12%,18%,71%,34,empate
+2023-Puebla,2023-Chivas,2023,Puebla,0,2,Chivas,26.7,2.67,8.01,8.01,8.01,24%,12%,65%,34,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,gana visitante
+2023-Puebla,2023-Monterrey,2023,Puebla,1,1,Monterrey,26.7,2.67,8.01,8.01,8.01,24%,12%,65%,34,88.1,8.81,26.43,26.43,26.43,38%,24%,38%,118,empate
+2023-Atlas,2023-Puebla,2023,Atlas,2,3,Puebla,30.7,3.07,9.21,9.21,9.21,NULL,NULL,NULL,60,26.7,2.67,8.01,8.01,8.01,12%,18%,71%,34,gana visitante
+2023-Puebla,2023-Pumas,2023,Puebla,0,2,Pumas,26.7,2.67,8.01,8.01,8.01,24%,12%,65%,34,NULL,NULL,NULL,NULL,NULL,30%,25%,45%,75,gana visitante
+2023-Puebla,2023-Juarez,2023,Puebla,1,0,Juarez,26.7,2.67,8.01,8.01,8.01,24%,12%,65%,34,NULL,NULL,NULL,NULL,NULL,35%,18%,47%,55,gana local
+2023-Puebla,2023-Atlético San Luis,2023,Puebla,1,2,Atlético San Luis,26.7,2.67,8.01,8.01,8.01,24%,12%,65%,34,35.85,3.59,10.77,10.77,10.77,21%,16%,63%,59,gana visitante
+2023-América,2023-Puebla,2023,América,3,0,Puebla,84.2,8.42,25.26,25.26,25.26,65%,22%,13%,133,26.7,2.67,8.01,8.01,8.01,12%,18%,71%,34,gana local
+2023-Puebla,2023-Santos Laguna,2023,Puebla,2,3,Santos Laguna,26.7,2.67,8.01,8.01,8.01,24%,12%,65%,34,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,gana visitante
+2023-Tigres,2023-Puebla,2023,Tigres,1,1,Puebla,67.6,6.76,20.28,20.28,20.28,70%,25%,5%,107,26.7,2.67,8.01,8.01,8.01,12%,18%,71%,34,empate
+2024-Cruz Azul,2024-Pumas,2024,Cruz Azul,2,2,Pumas,78.85,7.89,23.66,23.66,23.66,71%,24%,5%,107,47.6,4.76,14.28,14.28,14.28,30%,25%,45%,75,empate
+2024-Pumas,2024-Cruz Azul,2024,Pumas,0,2,Cruz Azul,47.6,4.76,14.28,14.28,14.28,50%,17%,33%,75,78.85,7.89,23.66,23.66,23.66,52%,24%,24%,107,gana visitante
+2024-Pachuca,2024-Pumas,2024,Pachuca,0,0,Pumas,56.6,5.66,16.98,16.98,16.98,39%,33%,28%,98,47.6,4.76,14.28,14.28,14.28,30%,25%,45%,75,empate
+2024-Querétaro,2024-Pumas,2024,Querétaro,1,1,Pumas,17.8,1.78,5.34,5.34,5.34,35%,12%,53%,64,47.6,4.76,14.28,14.28,14.28,30%,25%,45%,75,empate
+2024-Pumas,2024-América,2024,Pumas,2,1,América,47.6,4.76,14.28,14.28,14.28,50%,17%,33%,75,92.45,9.25,27.73,27.73,27.73,38%,29%,33%,133,gana local
+2024-Pumas,2024-León,2024,Pumas,1,0,León,47.6,4.76,14.28,14.28,14.28,50%,17%,33%,75,29.55,2.96,8.87,8.87,8.87,28%,28%,44%,87,gana local
+2024-Mazatlán,2024-Pumas,2024,Mazatlán,0,4,Pumas,31.45,3.15,9.44,9.44,9.44,29%,47%,24%,40,47.6,4.76,14.28,14.28,14.28,30%,25%,45%,75,gana visitante
+2024-Pumas,2024-Cruz Azul,2024,Pumas,0,0,Cruz Azul,47.6,4.76,14.28,14.28,14.28,50%,17%,33%,75,78.85,7.89,23.66,23.66,23.66,52%,24%,24%,107,empate
+2024-Toluca,2024-Pumas,2024,Toluca,3,0,Pumas,77.45,7.75,23.24,23.24,23.24,76%,19%,5%,118,47.6,4.76,14.28,14.28,14.28,30%,25%,45%,75,gana local
+2024-Monterrey,2024-Pumas,2024,Monterrey,3,0,Pumas,88.6,8.86,26.58,26.58,26.58,61%,17%,22%,118,47.6,4.76,14.28,14.28,14.28,30%,25%,45%,75,gana local
+2024-Chivas,2024-Pumas,2024,Chivas,3,1,Pumas,70.2,7.02,21.06,21.06,21.06,44%,33%,22%,99,47.6,4.76,14.28,14.28,14.28,30%,25%,45%,75,gana local
+2024-Pumas,2024-Santos Laguna,2024,Pumas,3,0,Santos Laguna,47.6,4.76,14.28,14.28,14.28,50%,17%,33%,75,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,gana local
+2024-Atlas,2024-Pumas,2024,Atlas,0,0,Pumas,28.95,2.9,8.68,8.68,8.68,NULL,NULL,NULL,60,47.6,4.76,14.28,14.28,14.28,30%,25%,45%,75,empate
+2024-Pumas,2024-Puebla,2024,Pumas,3,0,Puebla,47.6,4.76,14.28,14.28,14.28,50%,17%,33%,75,24.1,2.41,7.23,7.23,7.23,12%,18%,71%,34,gana local
+2024-Tigres,2024-Pumas,2024,Tigres,2,2,Pumas,67,6.7,20.1,20.1,20.1,70%,25%,5%,107,47.6,4.76,14.28,14.28,14.28,30%,25%,45%,75,empate
+2024-Pumas,2024-Necaxa,2024,Pumas,2,2,Necaxa,47.6,4.76,14.28,14.28,14.28,50%,17%,33%,75,38.5,3.85,11.55,11.55,11.55,28%,28%,44%,77,empate
+2024-Pumas,2024-Pachuca,2024,Pumas,3,1,Pachuca,47.6,4.76,14.28,14.28,14.28,50%,17%,33%,75,56.6,5.66,16.98,16.98,16.98,26%,16%,58%,98,gana local
+2024-Atlético San Luis,2024-Pumas,2024,Atlético San Luis,3,1,Pumas,45.95,4.6,13.84,13.84,13.84,68%,5%,26%,59,47.6,4.76,14.28,14.28,14.28,30%,25%,45%,75,gana local
+2023-Tigres,2023-Pumas,2023,Tigres,1,1,Pumas,67.6,6.76,20.28,20.28,20.28,70%,25%,5%,107,NULL,NULL,NULL,NULL,NULL,30%,25%,45%,75,empate
+2023-Pumas,2023-Chivas,2023,Pumas,3,0,Chivas,NULL,NULL,NULL,NULL,NULL,50%,17%,33%,75,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,gana local
+2023-Chivas,2023-Pumas,2023,Chivas,1,0,Pumas,69.7,6.97,20.91,20.91,20.91,44%,33%,22%,99,NULL,NULL,NULL,NULL,NULL,30%,25%,45%,75,gana local
+2023-Pumas,2023-Chivas,2023,Pumas,1,0,Chivas,NULL,NULL,NULL,NULL,NULL,50%,17%,33%,75,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,gana local
+2023-Pumas,2023-Atlas,2023,Pumas,3,0,Atlas,NULL,NULL,NULL,NULL,NULL,50%,17%,33%,75,30.7,3.07,9.21,9.21,9.21,26%,32%,42%,60,gana local
+2023-León,2023-Pumas,2023,León,1,1,Pumas,41.5,4.15,12.45,12.45,12.45,39%,39%,22%,87,NULL,NULL,NULL,NULL,NULL,30%,25%,45%,75,empate
+2023-Necaxa,2023-Pumas,2023,Necaxa,1,0,Pumas,40,4,12,12,12,44%,22%,33%,77,NULL,NULL,NULL,NULL,NULL,30%,25%,45%,75,gana local
+2023-Pumas,2023-Monterrey,2023,Pumas,0,1,Monterrey,NULL,NULL,NULL,NULL,NULL,50%,17%,33%,75,88.1,8.81,26.43,26.43,26.43,38%,24%,38%,118,gana visitante
+2023-Cruz Azul,2023-Pumas,2023,Cruz Azul,1,4,Pumas,72.2,7.22,21.66,21.66,21.66,71%,24%,5%,107,NULL,NULL,NULL,NULL,NULL,30%,25%,45%,75,gana visitante
+2023-Pumas,2023-Querétaro,2023,Pumas,4,0,Querétaro,NULL,NULL,NULL,NULL,NULL,50%,17%,33%,75,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,gana local
+2023-América,2023-Pumas,2023,América,1,0,Pumas,84.2,8.42,25.26,25.26,25.26,65%,22%,13%,133,NULL,NULL,NULL,NULL,NULL,30%,25%,45%,75,gana local
+2023-Puebla,2023-Pumas,2023,Puebla,0,2,Pumas,26.7,2.67,8.01,8.01,8.01,24%,12%,65%,34,NULL,NULL,NULL,NULL,NULL,30%,25%,45%,75,gana visitante
+2023-Pumas,2023-Atlético San Luis,2023,Pumas,3,2,Atlético San Luis,NULL,NULL,NULL,NULL,NULL,50%,17%,33%,75,35.85,3.59,10.77,10.77,10.77,21%,16%,63%,59,gana local
+2023-Santos Laguna,2023-Pumas,2023,Santos Laguna,2,1,Pumas,46,4.6,13.8,13.8,13.8,24%,18%,59%,46,NULL,NULL,NULL,NULL,NULL,30%,25%,45%,75,gana local
+2023-Pumas,2023-Tigres,2023,Pumas,2,1,Tigres,NULL,NULL,NULL,NULL,NULL,50%,17%,33%,75,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,gana local
+2023-Juarez,2023-Pumas,2023,Juarez,4,1,Pumas,NULL,NULL,NULL,NULL,NULL,28%,33%,39%,55,NULL,NULL,NULL,NULL,NULL,30%,25%,45%,75,gana local
+2023-Pumas,2023-Toluca,2023,Pumas,1,1,Toluca,NULL,NULL,NULL,NULL,NULL,50%,17%,33%,75,66.2,6.62,19.86,19.86,19.86,38%,33%,29%,118,empate
+2023-Pachuca,2023-Pumas,2023,Pachuca,1,1,Pumas,51.25,5.13,15.38,15.38,15.38,39%,33%,28%,98,NULL,NULL,NULL,NULL,NULL,30%,25%,45%,75,empate
+2023-Pumas,2023-Mazatlán,2023,Pumas,0,0,Mazatlán,NULL,NULL,NULL,NULL,NULL,50%,17%,33%,75,35.05,3.5,10.51,10.51,10.51,6%,29%,65%,40,empate
+2023-Xolos,2023-Pumas,2023,Xolos,2,3,Pumas,38.3,3.83,11.49,11.49,11.49,55%,15%,30%,49,NULL,NULL,NULL,NULL,NULL,30%,25%,45%,75,gana visitante
+2024-Necaxa,2024-Querétaro,2024,Necaxa,1,1,Querétaro,38.5,3.85,11.55,11.55,11.55,44%,22%,33%,77,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,empate
+2024-Querétaro,2024-Pumas,2024,Querétaro,1,1,Pumas,17.8,1.78,5.34,5.34,5.34,35%,12%,53%,64,47.6,4.76,14.28,14.28,14.28,30%,25%,45%,75,empate
+2024-Chivas,2024-Querétaro,2024,Chivas,2,0,Querétaro,70.2,7.02,21.06,21.06,21.06,44%,33%,22%,99,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,gana local
+2024-León,2024-Querétaro,2024,León,0,2,Querétaro,29.55,2.96,8.87,8.87,8.87,39%,39%,22%,87,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,gana visitante
+2024-Pachuca,2024-Querétaro,2024,Pachuca,1,2,Querétaro,56.6,5.66,16.98,16.98,16.98,39%,33%,28%,98,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,gana visitante
+2024-Querétaro,2024-Santos Laguna,2024,Querétaro,0,1,Santos Laguna,17.8,1.78,5.34,5.34,5.34,35%,12%,53%,64,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,gana visitante
+2024-Querétaro,2024-Atlético San Luis,2024,Querétaro,4,1,Atlético San Luis,17.8,1.78,5.34,5.34,5.34,35%,12%,53%,64,45.95,4.6,13.84,13.84,13.84,21%,16%,63%,59,gana local
+2024-Puebla,2024-Querétaro,2024,Puebla,0,2,Querétaro,24.1,2.41,7.23,7.23,7.23,24%,12%,65%,34,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,gana visitante
+2024-Xolos,2024-Querétaro,2024,Xolos,1,1,Querétaro,NULL,NULL,NULL,NULL,NULL,55%,15%,30%,49,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,empate
+2024-Querétaro,2024-Cruz Azul,2024,Querétaro,1,3,Cruz Azul,17.8,1.78,5.34,5.34,5.34,35%,12%,53%,64,78.85,7.89,23.66,23.66,23.66,52%,24%,24%,107,gana visitante
+2024-Monterrey,2024-Querétaro,2024,Monterrey,1,1,Querétaro,88.6,8.86,26.58,26.58,26.58,61%,17%,22%,118,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,empate
+2024-América,2024-Querétaro,2024,América,2,0,Querétaro,92.45,9.25,27.73,27.73,27.73,65%,22%,13%,133,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,gana local
+2024-Querétaro,2024-Toluca,2024,Querétaro,2,2,Toluca,17.8,1.78,5.34,5.34,5.34,35%,12%,53%,64,77.45,7.75,23.24,23.24,23.24,38%,33%,29%,118,empate
+2023-Querétaro,2023-Monterrey,2023,Querétaro,0,0,Monterrey,21.45,2.14,6.44,6.44,6.44,35%,12%,53%,64,88.1,8.81,26.43,26.43,26.43,38%,24%,38%,118,empate
+2023-Querétaro,2023-Chivas,2023,Querétaro,1,2,Chivas,21.45,2.14,6.44,6.44,6.44,35%,12%,53%,64,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,gana visitante
+2023-Mazatlán,2023-Querétaro,2023,Mazatlán,3,0,Querétaro,35.05,3.5,10.51,10.51,10.51,29%,47%,24%,40,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,gana local
+2023-Toluca,2023-Querétaro,2023,Toluca,3,1,Querétaro,66.2,6.62,19.86,19.86,19.86,76%,19%,5%,118,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,gana local
+2023-Pumas,2023-Querétaro,2023,Pumas,4,0,Querétaro,NULL,NULL,NULL,NULL,NULL,50%,17%,33%,75,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,gana local
+2023-Querétaro,2023-León,2023,Querétaro,1,1,León,21.45,2.14,6.44,6.44,6.44,35%,12%,53%,64,41.5,4.15,12.45,12.45,12.45,28%,28%,44%,87,empate
+2023-Cruz Azul,2023-Querétaro,2023,Cruz Azul,1,3,Querétaro,72.2,7.22,21.66,21.66,21.66,71%,24%,5%,107,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,gana visitante
+2023-Querétaro,2023-América,2023,Querétaro,1,2,América,21.45,2.14,6.44,6.44,6.44,35%,12%,53%,64,84.2,8.42,25.26,25.26,25.26,38%,29%,33%,133,gana visitante
+2023-Tigres,2023-Querétaro,2023,Tigres,5,0,Querétaro,67.6,6.76,20.28,20.28,20.28,70%,25%,5%,107,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,gana local
+2023-Necaxa,2023-Querétaro,2023,Necaxa,0,1,Querétaro,40,4,12,12,12,44%,22%,33%,77,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,gana visitante
+2023-Querétaro,2023-Pachuca,2023,Querétaro,1,1,Pachuca,21.45,2.14,6.44,6.44,6.44,35%,12%,53%,64,51.25,5.13,15.38,15.38,15.38,26%,16%,58%,98,empate
+2023-Atlético San Luis,2023-Querétaro,2023,Atlético San Luis,4,1,Querétaro,35.85,3.59,10.77,10.77,10.77,68%,5%,26%,59,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,gana local
+2023-Santos Laguna,2023-Querétaro,2023,Santos Laguna,0,2,Querétaro,46,4.6,13.8,13.8,13.8,24%,18%,59%,46,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,gana visitante
+2024-Santos Laguna,2024-Atlético San Luis,2024,Santos Laguna,0,3,Atlético San Luis,35.9,3.59,10.77,10.77,10.77,24%,18%,59%,46,45.95,4.6,13.84,13.84,13.84,21%,16%,63%,59,gana visitante
+2024-Santos Laguna,2024-Pachuca,2024,Santos Laguna,0,2,Pachuca,35.9,3.59,10.77,10.77,10.77,24%,18%,59%,46,56.6,5.66,16.98,16.98,16.98,26%,16%,58%,98,gana visitante
+2024-Necaxa,2024-Santos Laguna,2024,Necaxa,2,0,Santos Laguna,38.5,3.85,11.55,11.55,11.55,44%,22%,33%,77,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,gana local
+2024-Santos Laguna,2024-América,2024,Santos Laguna,1,1,América,35.9,3.59,10.77,10.77,10.77,24%,18%,59%,46,92.45,9.25,27.73,27.73,27.73,38%,29%,33%,133,empate
+2024-Juarez,2024-Santos Laguna,2024,Juarez,2,1,Santos Laguna,NULL,NULL,NULL,NULL,NULL,28%,33%,39%,55,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,gana local
+2024-Xolos,2024-Santos Laguna,2024,Xolos,2,2,Santos Laguna,NULL,NULL,NULL,NULL,NULL,55%,15%,30%,49,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,empate
+2024-Querétaro,2024-Santos Laguna,2024,Querétaro,0,1,Santos Laguna,17.8,1.78,5.34,5.34,5.34,35%,12%,53%,64,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,gana visitante
+2024-Santos Laguna,2024-Mazatlán,2024,Santos Laguna,1,0,Mazatlán,35.9,3.59,10.77,10.77,10.77,24%,18%,59%,46,31.45,3.15,9.44,9.44,9.44,6%,29%,65%,40,gana local
+2024-Toluca,2024-Santos Laguna,2024,Toluca,1,0,Santos Laguna,77.45,7.75,23.24,23.24,23.24,76%,19%,5%,118,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,gana local
+2024-Pumas,2024-Santos Laguna,2024,Pumas,3,0,Santos Laguna,47.6,4.76,14.28,14.28,14.28,50%,17%,33%,75,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,gana local
+2024-Santos Laguna,2024-Tigres,2024,Santos Laguna,0,3,Tigres,35.9,3.59,10.77,10.77,10.77,24%,18%,59%,46,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,gana visitante
+2024-Atlas,2024-Santos Laguna,2024,Atlas,3,0,Santos Laguna,28.95,2.9,8.68,8.68,8.68,NULL,NULL,NULL,60,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,gana local
+2024-Santos Laguna,2024-Puebla,2024,Santos Laguna,3,0,Puebla,35.9,3.59,10.77,10.77,10.77,24%,18%,59%,46,24.1,2.41,7.23,7.23,7.23,12%,18%,71%,34,gana local
+2024-León,2024-Santos Laguna,2024,León,3,2,Santos Laguna,29.55,2.96,8.87,8.87,8.87,39%,39%,22%,87,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,gana local
+2024-Santos Laguna,2024-Monterrey,2024,Santos Laguna,0,2,Monterrey,35.9,3.59,10.77,10.77,10.77,24%,18%,59%,46,88.6,8.86,26.58,26.58,26.58,38%,24%,38%,118,gana visitante
+2024-Chivas,2024-Santos Laguna,2024,Chivas,1,1,Santos Laguna,70.2,7.02,21.06,21.06,21.06,44%,33%,22%,99,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,empate
+2023-Santos Laguna,2023-Mazatlán,2023,Santos Laguna,2,1,Mazatlán,46,4.6,13.8,13.8,13.8,24%,18%,59%,46,35.05,3.5,10.51,10.51,10.51,6%,29%,65%,40,gana local
+2023-Atlético San Luis,2023-Santos Laguna,2023,Atlético San Luis,0,2,Santos Laguna,35.85,3.59,10.77,10.77,10.77,68%,5%,26%,59,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,gana visitante
+2023-Monterrey,2023-Santos Laguna,2023,Monterrey,3,0,Santos Laguna,88.1,8.81,26.43,26.43,26.43,61%,17%,22%,118,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,gana local
+2023-Santos Laguna,2023-Toluca,2023,Santos Laguna,3,1,Toluca,46,4.6,13.8,13.8,13.8,24%,18%,59%,46,66.2,6.62,19.86,19.86,19.86,38%,33%,29%,118,gana local
+2023-Mazatlán,2023-Santos Laguna,2023,Mazatlán,3,1,Santos Laguna,35.05,3.5,10.51,10.51,10.51,29%,47%,24%,40,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,gana local
+2023-Santos Laguna,2023-Juarez,2023,Santos Laguna,5,1,Juarez,46,4.6,13.8,13.8,13.8,24%,18%,59%,46,NULL,NULL,NULL,NULL,NULL,35%,18%,47%,55,gana local
+2023-América,2023-Santos Laguna,2023,América,4,3,Santos Laguna,84.2,8.42,25.26,25.26,25.26,65%,22%,13%,133,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,gana local
+2023-Santos Laguna,2023-Xolos,2023,Santos Laguna,2,1,Xolos,46,4.6,13.8,13.8,13.8,24%,18%,59%,46,NULL,NULL,NULL,NULL,NULL,28%,22%,50%,49,gana local
+2023-Santos Laguna,2023-Necaxa,2023,Santos Laguna,2,5,Necaxa,46,4.6,13.8,13.8,13.8,24%,18%,59%,46,40,4,12,12,12,28%,28%,44%,77,gana visitante
+2023-Pachuca,2023-Santos Laguna,2023,Pachuca,3,2,Santos Laguna,51.25,5.13,15.38,15.38,15.38,39%,33%,28%,98,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,gana local
+2023-Santos Laguna,2023-Pumas,2023,Santos Laguna,2,1,Pumas,46,4.6,13.8,13.8,13.8,24%,18%,59%,46,NULL,NULL,NULL,NULL,NULL,30%,25%,45%,75,gana local
+2023-Tigres,2023-Santos Laguna,2023,Tigres,3,2,Santos Laguna,67.6,6.76,20.28,20.28,20.28,70%,25%,5%,107,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,gana local
+2023-Santos Laguna,2023-Chivas,2023,Santos Laguna,2,1,Chivas,46,4.6,13.8,13.8,13.8,24%,18%,59%,46,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,gana local
+2023-Cruz Azul,2023-Santos Laguna,2023,Cruz Azul,2,2,Santos Laguna,72.2,7.22,21.66,21.66,21.66,71%,24%,5%,107,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,empate
+2023-Santos Laguna,2023-Atlas,2023,Santos Laguna,0,0,Atlas,46,4.6,13.8,13.8,13.8,24%,18%,59%,46,30.7,3.07,9.21,9.21,9.21,26%,32%,42%,60,empate
+2023-Puebla,2023-Santos Laguna,2023,Puebla,2,3,Santos Laguna,26.7,2.67,8.01,8.01,8.01,24%,12%,65%,34,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,gana visitante
+2023-Santos Laguna,2023-Querétaro,2023,Santos Laguna,0,2,Querétaro,46,4.6,13.8,13.8,13.8,24%,18%,59%,46,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,gana visitante
+2024-Monterrey,2024-Tigres,2024,Monterrey,1,1,Tigres,88.6,8.86,26.58,26.58,26.58,61%,17%,22%,118,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,empate
+2024-Tigres,2024-Monterrey,2024,Tigres,1,2,Monterrey,67,6.7,20.1,20.1,20.1,70%,25%,5%,107,88.6,8.86,26.58,26.58,26.58,38%,24%,38%,118,gana visitante
+2024-Tigres,2024-Xolos,2024,Tigres,4,1,Xolos,67,6.7,20.1,20.1,20.1,70%,25%,5%,107,39.15,3.92,11.75,11.75,11.75,28%,22%,50%,49,gana local
+2024-Tigres,2024-Necaxa,2024,Tigres,5,2,Necaxa,67,6.7,20.1,20.1,20.1,70%,25%,5%,107,38.5,3.85,11.55,11.55,11.55,28%,28%,44%,77,gana local
+2024-Monterrey,2024-Tigres,2024,Monterrey,3,3,Tigres,88.6,8.86,26.58,26.58,26.58,61%,17%,22%,118,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,empate
+2024-Tigres,2024-Pachuca,2024,Tigres,0,3,Pachuca,67,6.7,20.1,20.1,20.1,70%,25%,5%,107,56.6,5.66,16.98,16.98,16.98,26%,16%,58%,98,gana visitante
+2024-Puebla,2024-Tigres,2024,Puebla,2,3,Tigres,24.1,2.41,7.23,7.23,7.23,24%,12%,65%,34,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,gana visitante
+2024-Tigres,2024-Mazatlán,2024,Tigres,5,1,Mazatlán,67,6.7,20.1,20.1,20.1,70%,25%,5%,107,31.45,3.15,9.44,9.44,9.44,6%,29%,65%,40,gana local
+2024-América,2024-Tigres,2024,América,2,0,Tigres,92.45,9.25,27.73,27.73,27.73,65%,22%,13%,133,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,gana local
+2024-Toluca,2024-Tigres,2024,Toluca,2,1,Tigres,77.45,7.75,23.24,23.24,23.24,76%,19%,5%,118,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,gana local
+2024-Tigres,2024-Juarez,2024,Tigres,1,0,Juarez,67,6.7,20.1,20.1,20.1,70%,25%,5%,107,NULL,NULL,NULL,NULL,NULL,35%,18%,47%,55,gana local
+2024-Tigres,2024-Atlas,2024,Tigres,1,1,Atlas,67,6.7,20.1,20.1,20.1,70%,25%,5%,107,28.95,2.9,8.68,8.68,8.68,26%,32%,42%,60,empate
+2024-Santos Laguna,2024-Tigres,2024,Santos Laguna,0,3,Tigres,35.9,3.59,10.77,10.77,10.77,24%,18%,59%,46,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,gana visitante
+2024-Tigres,2024-Pumas,2024,Tigres,2,2,Pumas,67,6.7,20.1,20.1,20.1,70%,25%,5%,107,47.6,4.76,14.28,14.28,14.28,30%,25%,45%,75,empate
+2024-Atlético San Luis,2024-Tigres,2024,Atlético San Luis,1,2,Tigres,45.95,4.6,13.84,13.84,13.84,68%,5%,26%,59,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,gana visitante
+2024-Tigres,2024-Chivas,2024,Tigres,1,0,Chivas,67,6.7,20.1,20.1,20.1,70%,25%,5%,107,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,gana local
+2024-León,2024-Tigres,2024,León,1,2,Tigres,29.55,2.96,8.87,8.87,8.87,39%,39%,22%,87,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,gana visitante
+2023-América,2023-Tigres,2023,América,0,0,Tigres,84.2,8.42,25.26,25.26,25.26,65%,22%,13%,133,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,empate
+2023-Tigres,2023-América,2023,Tigres,1,1,América,67.6,6.76,20.28,20.28,20.28,70%,25%,5%,107,84.2,8.42,25.26,25.26,25.26,38%,29%,33%,133,empate
+2023-Tigres,2023-Pumas,2023,Tigres,1,1,Pumas,67.6,6.76,20.28,20.28,20.28,70%,25%,5%,107,NULL,NULL,NULL,NULL,NULL,30%,25%,45%,75,empate
+2023-Tigres,2023-Puebla,2023,Tigres,3,0,Puebla,67.6,6.76,20.28,20.28,20.28,70%,25%,5%,107,26.7,2.67,8.01,8.01,8.01,12%,18%,71%,34,gana local
+2023-Puebla,2023-Tigres,2023,Puebla,2,2,Tigres,26.7,2.67,8.01,8.01,8.01,24%,12%,65%,34,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,empate
+2023-Tigres,2023-América,2023,Tigres,0,0,América,67.6,6.76,20.28,20.28,20.28,70%,25%,5%,107,84.2,8.42,25.26,25.26,25.26,38%,29%,33%,133,empate
+2023-Tigres,2023-Atlético San Luis,2023,Tigres,2,2,Atlético San Luis,67.6,6.76,20.28,20.28,20.28,70%,25%,5%,107,35.85,3.59,10.77,10.77,10.77,21%,16%,63%,59,empate
+2023-Xolos,2023-Tigres,2023,Xolos,2,0,Tigres,38.3,3.83,11.49,11.49,11.49,55%,15%,30%,49,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,gana local
+2023-Chivas,2023-Tigres,2023,Chivas,0,4,Tigres,69.7,6.97,20.91,20.91,20.91,44%,33%,22%,99,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,gana visitante
+2023-Tigres,2023-Cruz Azul,2023,Tigres,2,1,Cruz Azul,67.6,6.76,20.28,20.28,20.28,70%,25%,5%,107,72.2,7.22,21.66,21.66,21.66,52%,24%,24%,107,gana local
+2023-Pachuca,2023-Tigres,2023,Pachuca,1,1,Tigres,51.25,5.13,15.38,15.38,15.38,39%,33%,28%,98,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,empate
+2023-Tigres,2023-Toluca,2023,Tigres,2,2,Toluca,67.6,6.76,20.28,20.28,20.28,70%,25%,5%,107,66.2,6.62,19.86,19.86,19.86,38%,33%,29%,118,empate
+2023-Mazatlán,2023-Tigres,2023,Mazatlán,2,3,Tigres,35.05,3.5,10.51,10.51,10.51,29%,47%,24%,40,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,gana visitante
+2023-Tigres,2023-Monterrey,2023,Tigres,3,0,Monterrey,67.6,6.76,20.28,20.28,20.28,70%,25%,5%,107,88.1,8.81,26.43,26.43,26.43,38%,24%,38%,118,gana local
+2023-Atlas,2023-Tigres,2023,Atlas,2,0,Tigres,30.7,3.07,9.21,9.21,9.21,NULL,NULL,NULL,60,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,gana local
+2023-Tigres,2023-Querétaro,2023,Tigres,5,0,Querétaro,67.6,6.76,20.28,20.28,20.28,70%,25%,5%,107,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,gana local
+2023-Tigres,2023-Santos Laguna,2023,Tigres,3,2,Santos Laguna,67.6,6.76,20.28,20.28,20.28,70%,25%,5%,107,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,gana local
+2023-Pumas,2023-Tigres,2023,Pumas,2,1,Tigres,NULL,NULL,NULL,NULL,NULL,50%,17%,33%,75,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,gana local
+2023-Necaxa,2023-Tigres,2023,Necaxa,0,3,Tigres,40,4,12,12,12,44%,22%,33%,77,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,gana visitante
+2023-Tigres,2023-León,2023,Tigres,1,0,León,67.6,6.76,20.28,20.28,20.28,70%,25%,5%,107,41.5,4.15,12.45,12.45,12.45,28%,28%,44%,87,gana local
+2023-Juarez,2023-Tigres,2023,Juarez,1,1,Tigres,NULL,NULL,NULL,NULL,NULL,28%,33%,39%,55,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,empate
+2023-Tigres,2023-Puebla,2023,Tigres,1,1,Puebla,67.6,6.76,20.28,20.28,20.28,70%,25%,5%,107,26.7,2.67,8.01,8.01,8.01,12%,18%,71%,34,empate
+2024-Tigres,2024-Xolos,2024,Tigres,4,1,Xolos,67,6.7,20.1,20.1,20.1,70%,25%,5%,107,39.15,3.92,11.75,11.75,11.75,28%,22%,50%,49,gana local
+2024-Xolos,2024-Puebla,2024,Xolos,3,1,Puebla,NULL,NULL,NULL,NULL,NULL,55%,15%,30%,49,24.1,2.41,7.23,7.23,7.23,12%,18%,71%,34,gana local
+2024-Juarez,2024-Xolos,2024,Juarez,0,1,Xolos,NULL,NULL,NULL,NULL,NULL,28%,33%,39%,55,39.15,3.92,11.75,11.75,11.75,28%,22%,50%,49,gana visitante
+2024-Xolos,2024-Necaxa,2024,Xolos,2,3,Necaxa,NULL,NULL,NULL,NULL,NULL,55%,15%,30%,49,38.5,3.85,11.55,11.55,11.55,28%,28%,44%,77,gana visitante
+2024-Mazatlán,2024-Xolos,2024,Mazatlán,2,0,Xolos,31.45,3.15,9.44,9.44,9.44,29%,47%,24%,40,39.15,3.92,11.75,11.75,11.75,28%,22%,50%,49,gana local
+2024-Xolos,2024-Santos Laguna,2024,Xolos,2,2,Santos Laguna,NULL,NULL,NULL,NULL,NULL,55%,15%,30%,49,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,empate
+2024-Xolos,2024-León,2024,Xolos,1,1,León,NULL,NULL,NULL,NULL,NULL,55%,15%,30%,49,29.55,2.96,8.87,8.87,8.87,28%,28%,44%,87,empate
+2024-Xolos,2024-Monterrey,2024,Xolos,1,1,Monterrey,NULL,NULL,NULL,NULL,NULL,55%,15%,30%,49,88.6,8.86,26.58,26.58,26.58,38%,24%,38%,118,empate
+2024-Toluca,2024-Xolos,2024,Toluca,2,0,Xolos,77.45,7.75,23.24,23.24,23.24,76%,19%,5%,118,39.15,3.92,11.75,11.75,11.75,28%,22%,50%,49,gana local
+2024-Atlético San Luis,2024-Xolos,2024,Atlético San Luis,3,3,Xolos,45.95,4.6,13.84,13.84,13.84,68%,5%,26%,59,39.15,3.92,11.75,11.75,11.75,28%,22%,50%,49,empate
+2024-Xolos,2024-Querétaro,2024,Xolos,1,1,Querétaro,NULL,NULL,NULL,NULL,NULL,55%,15%,30%,49,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,empate
+2024-Pachuca,2024-Xolos,2024,Pachuca,3,2,Xolos,56.6,5.66,16.98,16.98,16.98,39%,33%,28%,98,39.15,3.92,11.75,11.75,11.75,28%,22%,50%,49,gana local
+2024-Cruz Azul,2024-Xolos,2024,Cruz Azul,1,0,Xolos,78.85,7.89,23.66,23.66,23.66,71%,24%,5%,107,39.15,3.92,11.75,11.75,11.75,28%,22%,50%,49,gana local
+2024-Xolos,2024-Chivas,2024,Xolos,1,1,Chivas,NULL,NULL,NULL,NULL,NULL,55%,15%,30%,49,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,empate
+2024-Atlas,2024-Xolos,2024,Atlas,0,0,Xolos,28.95,2.9,8.68,8.68,8.68,NULL,NULL,NULL,60,39.15,3.92,11.75,11.75,11.75,28%,22%,50%,49,empate
+2024-Xolos,2024-América,2024,Xolos,0,2,América,NULL,NULL,NULL,NULL,NULL,55%,15%,30%,49,92.45,9.25,27.73,27.73,27.73,38%,29%,33%,133,gana visitante
+2023-Xolos,2023-Pachuca,2023,Xolos,2,3,Pachuca,38.3,3.83,11.49,11.49,11.49,55%,15%,30%,49,51.25,5.13,15.38,15.38,15.38,26%,16%,58%,98,gana visitante
+2023-América,2023-Xolos,2023,América,3,0,Xolos,84.2,8.42,25.26,25.26,25.26,65%,22%,13%,133,NULL,NULL,NULL,NULL,NULL,28%,22%,50%,49,gana local
+2023-Xolos,2023-Tigres,2023,Xolos,2,0,Tigres,38.3,3.83,11.49,11.49,11.49,55%,15%,30%,49,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,gana local
+2023-Xolos,2023-Atlas,2023,Xolos,2,0,Atlas,38.3,3.83,11.49,11.49,11.49,55%,15%,30%,49,30.7,3.07,9.21,9.21,9.21,26%,32%,42%,60,gana local
+2023-Monterrey,2023-Xolos,2023,Monterrey,3,1,Xolos,88.1,8.81,26.43,26.43,26.43,61%,17%,22%,118,NULL,NULL,NULL,NULL,NULL,28%,22%,50%,49,gana local
+2023-Xolos,2023-Atlético San Luis,2023,Xolos,2,1,Atlético San Luis,38.3,3.83,11.49,11.49,11.49,55%,15%,30%,49,35.85,3.59,10.77,10.77,10.77,21%,16%,63%,59,gana local
+2023-Santos Laguna,2023-Xolos,2023,Santos Laguna,2,1,Xolos,46,4.6,13.8,13.8,13.8,24%,18%,59%,46,NULL,NULL,NULL,NULL,NULL,28%,22%,50%,49,gana local
+2023-León,2023-Xolos,2023,León,1,0,Xolos,41.5,4.15,12.45,12.45,12.45,39%,39%,22%,87,NULL,NULL,NULL,NULL,NULL,28%,22%,50%,49,gana local
+2023-Xolos,2023-Toluca,2023,Xolos,2,1,Toluca,38.3,3.83,11.49,11.49,11.49,55%,15%,30%,49,66.2,6.62,19.86,19.86,19.86,38%,33%,29%,118,gana local
+2023-Xolos,2023-Mazatlán,2023,Xolos,1,1,Mazatlán,38.3,3.83,11.49,11.49,11.49,55%,15%,30%,49,35.05,3.5,10.51,10.51,10.51,6%,29%,65%,40,empate
+2023-Chivas,2023-Xolos,2023,Chivas,1,0,Xolos,69.7,6.97,20.91,20.91,20.91,44%,33%,22%,99,NULL,NULL,NULL,NULL,NULL,28%,22%,50%,49,gana local
+2023-Xolos,2023-Cruz Azul,2023,Xolos,2,1,Cruz Azul,38.3,3.83,11.49,11.49,11.49,55%,15%,30%,49,72.2,7.22,21.66,21.66,21.66,52%,24%,24%,107,gana local
+2023-Necaxa,2023-Xolos,2023,Necaxa,1,1,Xolos,40,4,12,12,12,44%,22%,33%,77,NULL,NULL,NULL,NULL,NULL,28%,22%,50%,49,empate
+2023-Xolos,2023-Pumas,2023,Xolos,2,3,Pumas,38.3,3.83,11.49,11.49,11.49,55%,15%,30%,49,NULL,NULL,NULL,NULL,NULL,30%,25%,45%,75,gana visitante
+2024-Chivas,2024-Toluca,2024,Chivas,1,0,Toluca,70.2,7.02,21.06,21.06,21.06,44%,33%,22%,99,77.45,7.75,23.24,23.24,23.24,38%,33%,29%,118,gana local
+2024-Toluca,2024-Cruz Azul,2024,Toluca,0,1,Cruz Azul,77.45,7.75,23.24,23.24,23.24,76%,19%,5%,118,78.85,7.89,23.66,23.66,23.66,52%,24%,24%,107,gana visitante
+2024-Atlético San Luis,2024-Toluca,2024,Atlético San Luis,1,5,Toluca,45.95,4.6,13.84,13.84,13.84,68%,5%,26%,59,77.45,7.75,23.24,23.24,23.24,38%,33%,29%,118,gana visitante
+2024-América,2024-Toluca,2024,América,5,1,Toluca,92.45,9.25,27.73,27.73,27.73,65%,22%,13%,133,77.45,7.75,23.24,23.24,23.24,38%,33%,29%,118,gana local
+2024-Toluca,2024-Atlas,2024,Toluca,4,1,Atlas,77.45,7.75,23.24,23.24,23.24,76%,19%,5%,118,28.95,2.9,8.68,8.68,8.68,26%,32%,42%,60,gana local
+2024-Pachuca,2024-Toluca,2024,Pachuca,2,3,Toluca,56.6,5.66,16.98,16.98,16.98,39%,33%,28%,98,77.45,7.75,23.24,23.24,23.24,38%,33%,29%,118,gana visitante
+2024-Toluca,2024-Pumas,2024,Toluca,3,0,Pumas,77.45,7.75,23.24,23.24,23.24,76%,19%,5%,118,47.6,4.76,14.28,14.28,14.28,30%,25%,45%,75,gana local
+2024-Juarez,2024-Toluca,2024,Juarez,1,1,Toluca,NULL,NULL,NULL,NULL,NULL,28%,33%,39%,55,77.45,7.75,23.24,23.24,23.24,38%,33%,29%,118,empate
+2024-Toluca,2024-Tigres,2024,Toluca,2,1,Tigres,77.45,7.75,23.24,23.24,23.24,76%,19%,5%,118,NULL,NULL,NULL,NULL,NULL,30%,30%,40%,107,gana local
+2024-Toluca,2024-Xolos,2024,Toluca,2,0,Xolos,77.45,7.75,23.24,23.24,23.24,76%,19%,5%,118,39.15,3.92,11.75,11.75,11.75,28%,22%,50%,49,gana local
+2024-Toluca,2024-Santos Laguna,2024,Toluca,1,0,Santos Laguna,77.45,7.75,23.24,23.24,23.24,76%,19%,5%,118,NULL,NULL,NULL,NULL,NULL,0%,12%,88%,46,gana local
+2024-Monterrey,2024-Toluca,2024,Monterrey,0,0,Toluca,88.6,8.86,26.58,26.58,26.58,61%,17%,22%,118,77.45,7.75,23.24,23.24,23.24,38%,33%,29%,118,empate
+2024-Necaxa,2024-Toluca,2024,Necaxa,3,3,Toluca,38.5,3.85,11.55,11.55,11.55,44%,22%,33%,77,77.45,7.75,23.24,23.24,23.24,38%,33%,29%,118,empate
+2024-Toluca,2024-León,2024,Toluca,4,1,León,77.45,7.75,23.24,23.24,23.24,76%,19%,5%,118,29.55,2.96,8.87,8.87,8.87,28%,28%,44%,87,gana local
+2024-Chivas,2024-Toluca,2024,Chivas,3,2,Toluca,70.2,7.02,21.06,21.06,21.06,44%,33%,22%,99,77.45,7.75,23.24,23.24,23.24,38%,33%,29%,118,gana local
+2024-Puebla,2024-Toluca,2024,Puebla,1,1,Toluca,24.1,2.41,7.23,7.23,7.23,24%,12%,65%,34,77.45,7.75,23.24,23.24,23.24,38%,33%,29%,118,empate
+2024-Toluca,2024-Mazatlán,2024,Toluca,4,1,Mazatlán,77.45,7.75,23.24,23.24,23.24,76%,19%,5%,118,31.45,3.15,9.44,9.44,9.44,6%,29%,65%,40,gana local
+2024-Querétaro,2024-Toluca,2024,Querétaro,2,2,Toluca,17.8,1.78,5.34,5.34,5.34,35%,12%,53%,64,77.45,7.75,23.24,23.24,23.24,38%,33%,29%,118,empate
+2023-Mazatlán,2023-Toluca,2023,Mazatlán,1,0,Toluca,35.05,3.5,10.51,10.51,10.51,29%,47%,24%,40,66.2,6.62,19.86,19.86,19.86,38%,33%,29%,118,gana local
+2023-Santos Laguna,2023-Toluca,2023,Santos Laguna,3,1,Toluca,46,4.6,13.8,13.8,13.8,24%,18%,59%,46,66.2,6.62,19.86,19.86,19.86,38%,33%,29%,118,gana local
+2023-Toluca,2023-Puebla,2023,Toluca,0,1,Puebla,66.2,6.62,19.86,19.86,19.86,76%,19%,5%,118,26.7,2.67,8.01,8.01,8.01,12%,18%,71%,34,gana visitante
+2023-Toluca,2023-Atlético San Luis,2023,Toluca,3,1,Atlético San Luis,66.2,6.62,19.86,19.86,19.86,76%,19%,5%,118,35.85,3.59,10.77,10.77,10.77,21%,16%,63%,59,gana local
+2023-León,2023-Toluca,2023,León,1,0,Toluca,41.5,4.15,12.45,12.45,12.45,39%,39%,22%,87,66.2,6.62,19.86,19.86,19.86,38%,33%,29%,118,gana local
+2023-Toluca,2023-Querétaro,2023,Toluca,3,1,Querétaro,66.2,6.62,19.86,19.86,19.86,76%,19%,5%,118,NULL,NULL,NULL,NULL,NULL,18%,18%,65%,64,gana local
+2023-Tigres,2023-Toluca,2023,Tigres,2,2,Toluca,67.6,6.76,20.28,20.28,20.28,70%,25%,5%,107,66.2,6.62,19.86,19.86,19.86,38%,33%,29%,118,empate
+2023-Toluca,2023-Chivas,2023,Toluca,1,1,Chivas,66.2,6.62,19.86,19.86,19.86,76%,19%,5%,118,NULL,NULL,NULL,NULL,NULL,24%,24%,53%,99,empate
+2023-Xolos,2023-Toluca,2023,Xolos,2,1,Toluca,38.3,3.83,11.49,11.49,11.49,55%,15%,30%,49,66.2,6.62,19.86,19.86,19.86,38%,33%,29%,118,gana local
+2023-Toluca,2023-Pachuca,2023,Toluca,5,0,Pachuca,66.2,6.62,19.86,19.86,19.86,76%,19%,5%,118,51.25,5.13,15.38,15.38,15.38,26%,16%,58%,98,gana local
+2023-Toluca,2023-Monterrey,2023,Toluca,1,0,Monterrey,66.2,6.62,19.86,19.86,19.86,76%,19%,5%,118,88.1,8.81,26.43,26.43,26.43,38%,24%,38%,118,gana local
+2023-Atlas,2023-Toluca,2023,Atlas,0,0,Toluca,30.7,3.07,9.21,9.21,9.21,NULL,NULL,NULL,60,66.2,6.62,19.86,19.86,19.86,38%,33%,29%,118,empate
+2023-Pumas,2023-Toluca,2023,Pumas,1,1,Toluca,NULL,NULL,NULL,NULL,NULL,50%,17%,33%,75,66.2,6.62,19.86,19.86,19.86,38%,33%,29%,118,empate
+2023-Toluca,2023-Necaxa,2023,Toluca,0,0,Necaxa,66.2,6.62,19.86,19.86,19.86,76%,19%,5%,118,40,4,12,12,12,28%,28%,44%,77,empate
